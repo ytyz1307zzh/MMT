@@ -9,8 +9,6 @@ import torch
 import torch.nn as nn
 import torch.utils.data
 import torch.optim as Optim
-from nltk.translate.bleu_score import sentence_bleu
-
 import json
 import argparse
 import time
@@ -43,6 +41,7 @@ parser.add_argument('-n_com', type=int, default=5, help="Number of input comment
 parser.add_argument('-output', default='prediction.json', help='Output json file for generation')
 parser.add_argument('-src_lang', type=str, required=True, choices=['en', 'fr', 'de'], help='Source language')
 parser.add_argument('-tgt_lang', type=str, required=True, choices=['en', 'fr', 'de'], help='Target language')
+parser.add_argument('-reg_weight', type=float, default=0.1, help='Regularization Weight')
 
 opt = parser.parse_args()
 assert opt.src_lang != opt.tgt_lang
@@ -204,10 +203,11 @@ class DataSet(torch.utils.data.Dataset):
 def get_dataloader(dataset, batch_size, is_train=True):
     return torch.utils.data.DataLoader(dataset=dataset, batch_size=batch_size, shuffle=is_train)
 
-def save_model(path, model):
-    model_state_dict = model.module.state_dict()
-    #model_state_dict = model.state_dict()
-    torch.save(model_state_dict, path)
+def save_model(path, model, rev_model):
+    model_state_dict = model.state_dict()
+    rev_model_state_dict = rev_model.state_dict()
+    torch.save({'model': model_state_dict,
+                'rev_model': rev_model_state_dict} , path)
 
 
 def train():
@@ -216,79 +216,132 @@ def train():
     train_batch = get_dataloader(train_set, opt.batch_size, is_train=True)
     model = Model(n_emb=opt.n_emb, n_hidden=opt.n_hidden, src_vocab_size=opt.src_vocab_size, tgt_vocab_size=opt.tgt_vocab_size,
                   dropout=opt.dropout, d_ff=opt.d_ff, n_head=opt.n_head, n_block=opt.n_block)
+    rev_model = Model(n_emb=opt.n_emb, n_hidden=opt.n_hidden, src_vocab_size=opt.tgt_vocab_size, tgt_vocab_size=opt.src_vocab_size,
+                  dropout=opt.dropout, d_ff=opt.d_ff, n_head=opt.n_head, n_block=opt.n_block)
     if opt.restore != '':
-        model_dict = torch.load(opt.restore)
+        saved_data = torch.load(opt.restore)
+        model_dict = saved_data['model']
+        rev_model_dict = saved_data['rev_model']
         model.load_state_dict(model_dict)
+        rev_model.load_state_dict(rev_model_dict)
+
     model.cuda()
-    model = nn.DataParallel(model)
+    rev_model.cuda()
     optim = Optim.Adam(filter(lambda p: p.requires_grad,model.parameters()), lr=opt.lr)
+    rev_optim = Optim.Adam(filter(lambda p: p.requires_grad,rev_model.parameters()), lr=opt.lr)
     best_score = -1000000
     impatience = 0
+    #writer = SummaryWriter()
 
     for i in range(opt.epoch):
         model.train()
+        rev_model.train()
         report_loss, start_time, n_samples = 0, time.time(), 0
+        report_rev_loss, report_joint_loss = 0, 0
         count, total = 0, len(train_set) // opt.batch_size + 1
         for batch in train_batch:
-            model.zero_grad()
-            X, Y, T = batch
+            X, Y, T = batch # X:images, Y: target, T: source
             X = Variable(X).cuda()
             Y = Variable(Y).cuda()
             T = Variable(T).cuda()
+
             loss = model(X, Y, T)
-            loss.sum().backward()
+            rev_loss = rev_model(X, T, Y) # exchange the source and the target
+            attn = model.comment_decoder.layers[0].text_attn.attn
+            rev_attn = rev_model.comment_decoder.layers[0].text_attn.attn
+            attn = torch.mean(attn, dim=1)[:, :, :-1] # average on 8 heads, omit <EOS> on the last position
+            rev_attn = torch.mean(rev_attn, dim=1)[:, :, :-1]
+            #print('attn: ', attn.size())
+            #print('attn: ', attn[0][:5])
+            #print('rev_attn: ', rev_attn.size())
+            #print('rev_attn: ', rev_attn[0][:5])
+            attn_product = torch.mul(attn, rev_attn.transpose(1, 2))
+            #print('attn_product: ', attn_product[0][:5])
+            attn_sum = torch.sum(attn_product, dim=[1, 2]) # calculate the sum of attention weights for each instance
+            #print('attn_sum: ', attn_sum)
+            attn_log = torch.log2(attn_sum)
+            #print('attn_log: ', attn_log)
+            joint_loss = torch.mean(opt.reg_weight * attn_log)
+            if count % 10 == 0:
+                print('loss: ', loss.item(), end=' ')
+                print('rev_loss: ', rev_loss.item(), end=' ')
+                print('joint_loss: ', joint_loss.item())
+
+            #writer.add_scalars('tensorboard/loss', {'loss': loss.item(), 'rev_loss': rev_loss.item(), 'joint_loss': joint_loss.item()}, count)
+
+            optim.zero_grad()
+            loss_forward = loss - joint_loss
+            loss_backward = rev_loss - joint_loss
+            loss_forward.backward(retain_graph=True)
             optim.step()
-            report_loss += loss.sum().item()
+            rev_optim.zero_grad()
+            loss_backward.backward()
+            rev_optim.step()
+
+            report_loss += loss.item()
+            report_rev_loss += rev_loss.item()
+            report_joint_loss += joint_loss.item()
             n_samples += len(X.data)
             count += 1
             if count % opt.report == 0 or count == total:
-                print('%d/%d, epoch: %d, report_loss: %.3f, time: %.2f'
-                      % (count, total, i+1, report_loss / n_samples, time.time() - start_time))
+                print('%d/%d, epoch: %d, loss: %.3f, rev_loss: %.3f, joint_loss: %.3f, time: %.2f'
+                      % (count, total, i+1, report_loss / n_samples, report_rev_loss / n_samples, report_joint_loss / n_samples, time.time() - start_time))
                 model.eval()
-                score = eval(dev_set, model)
+                rev_model.eval()
+                score = eval(dev_set, model, rev_model)
                 model.train()
+                rev_model.train()
 
                 if score > best_score:
                     best_score = score
                     impatience = 0
                     print('New best score!')
-                    save_model(os.path.join(opt.dir, 'best_checkpoint_{:.3f}.pt'.format(-score)), model)
+                    save_model(os.path.join(opt.dir, 'best_checkpoint_{:.3f}.pt'.format(-score)), model, rev_model)
                 else:
                     impatience += 1
                     print('Impatience: ', impatience, 'best score: ', best_score)
-                    save_model(os.path.join(opt.dir, 'impatience_{:.3f}.pt'.format(-score)), model)
+                    save_model(os.path.join(opt.dir, 'impatience_{:.3f}.pt'.format(-score)), model, rev_model)
                     if impatience > opt.impatience:
                         print('Early stopping!')
                         quit()
 
                 report_loss, start_time, n_samples = 0, time.time(), 0
+                report_rev_loss, report_joint_loss = 0, 0
         #save_model(os.path.join(opt.dir, 'checkpoint_{}.pt'.format(i+1)), model)
+    #writer.close()
 
     return model
 
-def eval(dev_set, model):
+def eval(dev_set, model, rev_model):
     print("starting evaluating...")
     start_time = time.time()
     model.eval()
+    rev_model.eval()
     dev_batch = get_dataloader(dev_set, opt.batch_size, is_train=False)
 
     loss = 0
+    rev_loss = 0
     for batch in dev_batch:
         X, Y, T = batch
         with torch.no_grad():
             X = Variable(X).cuda()
             Y = Variable(Y).cuda()
             T = Variable(T).cuda()
-        loss += model(X, Y, T).sum().item()
+        loss += model(X, Y, T).item()
+        rev_loss += rev_model(X, T, Y).item()
 
     loss = (loss * opt.batch_size) / 64
-    print(loss)
+    rev_loss = (rev_loss * opt.batch_size) / 64
+
+    print('loss: ', loss)
+    print('rev_loss: ', rev_loss)
     print("evaluating time:", time.time() - start_time)
 
     return -loss
 
-def test(test_set, model):
+def test(test_set, model, rev_model):
     model.eval()
+    rev_model.eval()
     test_batch = get_dataloader(test_set, opt.batch_size, is_train=False)
     assert opt.output.endswith('.json'), 'Output file should be a json file'
     outputs = []
@@ -302,12 +355,14 @@ def test(test_set, model):
             Y = Variable(Y).cuda()
             T = Variable(T).cuda()
         predictions = model.generate(X, T).data
+        rev_predictions = rev_model.generate(X, Y).data
 
         assert X.size()[0] == predictions.size()[0] and X.size()[0] == T.size()[0]
         for i in range(X.size()[0]):
             out_dict = {'source': DataSet.transform_to_words(T[i].cpu(), 'src'),
                         'target': DataSet.transform_to_words(Y[i].cpu(), 'tgt'),
-                        'prediction': DataSet.transform_to_words(predictions[i].cpu(), 'tgt')}
+                        'prediction': DataSet.transform_to_words(predictions[i].cpu(), 'tgt'),
+                        'rev_prediction': DataSet.transform_to_words(rev_predictions[i].cpu(), 'src')}
             outputs.append(out_dict)
 
         print(cnt)
@@ -326,8 +381,14 @@ if __name__ == '__main__':
         test_set = DataSet(test_path, src_vocabs, tgt_vocabs, test_img_path, is_train=False)
         model = Model(n_emb=opt.n_emb, n_hidden=opt.n_hidden, src_vocab_size=opt.src_vocab_size, tgt_vocab_size=opt.tgt_vocab_size,
                   dropout=opt.dropout, d_ff=opt.d_ff, n_head=opt.n_head, n_block=opt.n_block)
-        model_dict = torch.load(opt.restore)
+        rev_model = Model(n_emb=opt.n_emb, n_hidden=opt.n_hidden, src_vocab_size=opt.tgt_vocab_size,tgt_vocab_size=opt.src_vocab_size,
+                          dropout=opt.dropout, d_ff=opt.d_ff, n_head=opt.n_head, n_block=opt.n_block)
+        saved_data = torch.load(opt.restore)
+        model_dict = saved_data['model']
+        rev_model_dict = saved_data['rev_model']
         model.load_state_dict(model_dict)
+        rev_model.load_state_dict(rev_model_dict)
         model.cuda()
-        test(test_set, model)
+        rev_model.cuda()
+        test(test_set, model, rev_model)
 
