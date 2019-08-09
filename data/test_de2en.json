@@ -1,0 +1,4002 @@
+[
+    {
+        "src": "ein schlanker gelblicher hund beim absolvieren eines hindernislaufs , der in einem bereich mit nacktem erdboden aufgebaut ist",
+        "tgt": "a sleek yellow dog mid run on a dirt area on an obstacle course"
+    },
+    {
+        "src": "ein schwarz-weiß-foto eines hundes , der nach vorn blickt , mit einem hintergrund aus schildern in einer asiatischen sprache .",
+        "tgt": "a black and white photo of a dog staring ahead with a background of signs written in asian language characters ."
+    },
+    {
+        "src": "eine luftaufnahme mit braun werdenden bäumen , einem schlossartigen gebäude , das darin zu erkennen ist , und einer berglandschaft am horizont .",
+        "tgt": "an aerial landscape photo of browning grasses and a castle-like structure peaking through and a mountain landscape in the horizon ."
+    },
+    {
+        "src": "ein mann mit nackter brust schreit bei einem auftritt auf einer bühne einen song heraus .",
+        "tgt": "a bare-chested man belts out a song during a stage performance ."
+    },
+    {
+        "src": "ein schlanker asiatischer mann in einer langen weißen schürze und einer blauen kopfbedeckung , der in einer restaurantküche nudeln zieht .",
+        "tgt": "a slim asian man in a long white apron and blue hat stringing pasta in a restaurant kitchen ."
+    },
+    {
+        "src": "ein mann und eine frau gehen die in der stadt .",
+        "tgt": "a man and a woman walking in the city"
+    },
+    {
+        "src": "ein wasserfall in einem wald mit vielen bäumen",
+        "tgt": "a waterfall in a forest with many trees"
+    },
+    {
+        "src": "eine biene , die über violett-orangefarbenen blumen schwebt .",
+        "tgt": "a bee hovering over purple and orange flowers ."
+    },
+    {
+        "src": "ein ruhiger , von bäumen und steinen umgebender see .",
+        "tgt": "a calm lake surrounded by trees and rocks ."
+    },
+    {
+        "src": "zwei personen auf einem fußballfeld , eine auf dem boden .",
+        "tgt": "two people on a football field one on the ground ."
+    },
+    {
+        "src": "ein junger mann macht auf einem skateboard ein kunststück in der luft .",
+        "tgt": "a young man performs an aerial stunt on a skateboard ."
+    },
+    {
+        "src": "zwei hunde rennen am strand entlang .",
+        "tgt": "two dogs running along the beach"
+    },
+    {
+        "src": "ein hund rennt neben einem gewässer .",
+        "tgt": "a dog is running beside a body of water ."
+    },
+    {
+        "src": "ein fahrradfahrer , der einen helm trägt",
+        "tgt": "a cyclist is wearing a helmet"
+    },
+    {
+        "src": "ein mann mit schwarzer kopfbedeckung schießt im freien mit einem gewehr .",
+        "tgt": "a man wearing a black hat is shooting a rifle outside ."
+    },
+    {
+        "src": "ein kleines kund im freien , dem herbstblätter um das gesicht wehen .",
+        "tgt": "a small child outside with autumn leaves blowing around her face ."
+    },
+    {
+        "src": "ein leuchtend rotes boot auf ganz stillem blauem wasser .",
+        "tgt": "a bright red boat on perfectly calm blue water ."
+    },
+    {
+        "src": "ein holzweg , der unter blauem himmel einen grasbewachsenen hang entlangführt .",
+        "tgt": "a wooden walkway leading up a grassy slope under a blue sky ."
+    },
+    {
+        "src": "es findet ein fahrradrennen mit zuschauern statt .",
+        "tgt": "a bike race is taking place with spectators watching ."
+    },
+    {
+        "src": "ein vierrädriger holzkarren , der auf einer hölzernen plattform abgestellt ist .",
+        "tgt": "a four wheeled wooden cart parked on a a wooden platform ."
+    },
+    {
+        "src": "kunden stehen vor einem verbrauchermarkt .",
+        "tgt": "customers are standing outside of a convenience store ."
+    },
+    {
+        "src": "eine frau posiert an einem steinigen strand , während ihr freund ein foto macht .",
+        "tgt": "a woman poses on a rocky beach as her friend takes a photo ."
+    },
+    {
+        "src": "ein mann und zwei mädchen , die am strandufer spielen",
+        "tgt": "a man and two girls playing on the shore of the beach"
+    },
+    {
+        "src": "ein kleines mädchen , das mit ihren spielzeugen im sand spielt",
+        "tgt": "a little girl playing with her toys in the sand"
+    },
+    {
+        "src": "ein mann mit nadelstreifenhose spielt ein konzert .",
+        "tgt": "a man in pinstripe pants is performing a concert ."
+    },
+    {
+        "src": "zwei personen liegen vor einer wand mit graffitis auf dem gehweg .",
+        "tgt": "two people laying on the sidewalk in front of a wall of graffiti ."
+    },
+    {
+        "src": "ein gewässer , während die sonne durch die wolken bricht .",
+        "tgt": "a body of water with sunshine breaking through clouds ."
+    },
+    {
+        "src": "ein flugzeug mit einem spruchband , das über einem strand mit leuten auf dem sand und im wasser fliegt .",
+        "tgt": "a plane with a banner flying above a beach with people on the sand and in the water ."
+    },
+    {
+        "src": "ein kleiner weißer jet , der neben einem gewässer abhebt .",
+        "tgt": "a white small jet taking off with water to the side ."
+    },
+    {
+        "src": "ein mädchen , das ein sportgerät benutzt , macht ein wütendes gesicht .",
+        "tgt": "a young girl poses fiercely while using exercise equipment ."
+    },
+    {
+        "src": "schild für privatbesitz und schild eines restaurants",
+        "tgt": "privately owned poster and restaurant poster"
+    },
+    {
+        "src": "pinien und ein paar berge im hintergrund mit schnee",
+        "tgt": "pines , and some background mountains with snow"
+    },
+    {
+        "src": "ein frau , die sich mit kussmiene zu einem schwarzen primaten nach vorn beugt und auf einem holzboden steht .",
+        "tgt": "a women bending over with a kissing expression at a black primate creature while standing on a harwood floor ."
+    },
+    {
+        "src": "zwei mädchen , die an einer straße stehen und etwas beobachten .",
+        "tgt": "two young girls standing along a street outside watching something ."
+    },
+    {
+        "src": "laden aus holz mit blumenornamenten am eingang",
+        "tgt": "shop made of wood with flowers ornaments in the entrance"
+    },
+    {
+        "src": "ein mann , der auf steinen steht , angelt .",
+        "tgt": "a man standing on stones is fishing ."
+    },
+    {
+        "src": "ein läufer joggt eine schmale straße entlang .",
+        "tgt": "runner is taking a jog on a narrow road ."
+    },
+    {
+        "src": "zwei frauen auf einer wildwassertour .",
+        "tgt": "two women are water rafting ."
+    },
+    {
+        "src": "fahrradfahrer auf einer straße mit schneedecke , die umgebende landschaft und ein bergrücken in der ferne .",
+        "tgt": "cyclist on a road with snow covering the surrounding flat landscape and a mountain range in the far background ."
+    },
+    {
+        "src": "ein teekessel und eine hohe teekanne über einem offenen feuer .",
+        "tgt": "a teakettle and a tall teapot over an open fire ."
+    },
+    {
+        "src": "eine person im cockpit eines jets , die zur seite blickt und einen fliegerhelm trägt .",
+        "tgt": "a person in a jet cockpit looking to the side and wearing flight helmet ."
+    },
+    {
+        "src": "alte frau in einem obststand",
+        "tgt": "old woman in a fruit stand"
+    },
+    {
+        "src": "mann , der in der stadt herumgeht , und etwas wasser",
+        "tgt": "man walking around town and some water"
+    },
+    {
+        "src": "eine rosafarbene blume beginnt zu blühen .",
+        "tgt": "a pink flower is starting to bloom ."
+    },
+    {
+        "src": "eine steinerne statue über einer uhr , mit einem großen gebäude im hintergrund .",
+        "tgt": "a stone statue above a clock with a large building in the background ."
+    },
+    {
+        "src": "gruppe junger leute , die darauf warten , dass der fußball herunterfällt",
+        "tgt": "group of young people waiting for the soccer ball to fall"
+    },
+    {
+        "src": "eine alte waschmaschine auf der straße",
+        "tgt": "an old washing machine on the street"
+    },
+    {
+        "src": "leute auf einem gehweg mit vielen menschen und häuser daneben , und amerikanischen fahnen werden gezeigt .",
+        "tgt": "people on a crowded sidewalk with houses alongside them and the american flags are displayed ."
+    },
+    {
+        "src": "ein weißer lkw-anhänger mit einem eingedrückten ende und den worten &quot; nothing lef nothing right &quot; auf der seite , auf dem erdboden .",
+        "tgt": "a white truck transport trailer with one end crumpled and the word &quot; nothing lef nothing right &quot; scrawled on it side on a dirt ground ."
+    },
+    {
+        "src": "eine frau geht durch den wald .",
+        "tgt": "a woman is walking through the woods ."
+    },
+    {
+        "src": "ein hund rennt an einem strand .",
+        "tgt": "a dog is running on a beach ."
+    },
+    {
+        "src": "zwei fahrradfahrer fahren mit voller geschwindigkeit die straße entlang .",
+        "tgt": "two cyclists at full speed down the street"
+    },
+    {
+        "src": "ein junge , der auf eine große trommel schlägt , und andere kinder in der nähe .",
+        "tgt": "a young boy banging on a large drum with other children nearby ."
+    },
+    {
+        "src": "ein junge mit zuckerguss im gesicht grinst durch fehlende schneidezähne .",
+        "tgt": "a young boy with frosting on his face grins through missing front teeth ."
+    },
+    {
+        "src": "grasschirme und liegestühle an einem strand , mit bergen im hintergrund .",
+        "tgt": "grass umbrellas and lounge chairs along a beach with mountains in the background ."
+    },
+    {
+        "src": "ein mann , der auf einer bank auf dem gehweg sitzt , an der seite ein auto am straßenrand .",
+        "tgt": "a man sitting on a sidewalk bench with a car to the side along the curb ."
+    },
+    {
+        "src": "zwei surfer paddeln und ein dritter reitet eine welle .",
+        "tgt": "two surfers are paddling while a third surfer is riding a wave ."
+    },
+    {
+        "src": "denkmal in bogenform in einer stadt am tag",
+        "tgt": "arch monument in a city in the day"
+    },
+    {
+        "src": "einer frau wird am strand ein getränk gereicht .",
+        "tgt": "a woman is being handed a drink on the beach ."
+    },
+    {
+        "src": "gruppe von menschen , die auf die u-bahn warten",
+        "tgt": "group of people waiting for the subway"
+    },
+    {
+        "src": "gebirgszug an einem wolkigen tag .",
+        "tgt": "a mountain range on a cloudy day ."
+    },
+    {
+        "src": "fliegende vogel am himmel , die kämpfen",
+        "tgt": "flying birds fighting in the sky"
+    },
+    {
+        "src": "ein weg , der auf der einen seite mit palmen und auf der anderen seite von einem sandstrand gesäumt ist .",
+        "tgt": "a sidewalk path lined with palm trees on one side and a beach sand on the other ."
+    },
+    {
+        "src": "ein grüner oldtimer , der in einer wüstenlandschaft geparkt ist .",
+        "tgt": "an antique green parked in a desert landscape ."
+    },
+    {
+        "src": "eine felsformation steigt in einem wüstenbereich zum himmel auf .",
+        "tgt": "a rock formation is rising upward in a desert area ."
+    },
+    {
+        "src": "ein von gras und bäumen umgebenes gewässern unter einem blauen und wolkigen himmel .",
+        "tgt": "a body of water edged by grass and trees under a blue and clouded sky ."
+    },
+    {
+        "src": "ein schwarzer hund , der auf seinem rücken im gras liegt .",
+        "tgt": "a black dog lying on his back on the grass ."
+    },
+    {
+        "src": "eine bergkette und eine brücke über den fluss",
+        "tgt": "chain of mountains and a bridge over the river"
+    },
+    {
+        "src": "ein kleines mädchen , das an metallseilen hochklettert und einen langen rosafarbenen rock und ein schwarzes t-shirt trägt .",
+        "tgt": "a little girl climbing metal rope cables wearing a long pink skirt and black t-shirt ."
+    },
+    {
+        "src": "mädchen spielen basketball , und der ball geht gerade durch den korb .",
+        "tgt": "girls are playing a basketball game as the ball goes through the hoop ."
+    },
+    {
+        "src": "zwei fußballspieler von gegnerischen mannschaften konkurrieren um einen kopfschuss .",
+        "tgt": "two male soccer players from opposing teams competing for a header ."
+    },
+    {
+        "src": "eine baumreihe vor einem gebäude mit glasfenstern .",
+        "tgt": "a line of trees in front of a building with glass windows ."
+    },
+    {
+        "src": "drei männer , die in wasser baden",
+        "tgt": "three men bathing in water"
+    },
+    {
+        "src": "menschengruppe , die einen turm aus menschen bildet",
+        "tgt": "group of people making a human tower"
+    },
+    {
+        "src": "eine junge frau , die neben einer wand voller schöner blumen sitzt",
+        "tgt": "a young woman sitting next to a wall full of beautiful flowers"
+    },
+    {
+        "src": "männer tollen heuballen während andere männer darauf rennen .",
+        "tgt": "men are rolling bales of hay while other men are running on top of them ."
+    },
+    {
+        "src": "hockey-spieler auf dem eis spielen auf einer eisbahn .",
+        "tgt": "hockey players on the ice actively playing in a rink ."
+    },
+    {
+        "src": "eine ballerina in blau wirbelt herum .",
+        "tgt": "a ballerina in blue twirls ."
+    },
+    {
+        "src": "zahlreiche gebäude stehen hinter einem sandbereich .",
+        "tgt": "numerous buildings are standing behind an area of sand ."
+    },
+    {
+        "src": "menschen in schlauchbooten sehen zu , wie zwei männer aus ihren eigenen schlauchbooten fallen .",
+        "tgt": "people in rafts watch as two men fall out of their own rafts ."
+    },
+    {
+        "src": "ein surfer reitet eine große welle .",
+        "tgt": "a surfer rides a big wave ."
+    },
+    {
+        "src": "eine person fährt mit skiern oder einem snowboard einen berghang herunter .",
+        "tgt": "a person is skiing or snowboarding down a mountainside ."
+    },
+    {
+        "src": "ein mann steigt in die straßenbahn .",
+        "tgt": "a man gets on a street car ."
+    },
+    {
+        "src": "ein typ fährt skateboard und ein andere macht ein video .",
+        "tgt": "a guy is skateboarding while someone else videotapes ."
+    },
+    {
+        "src": "ein hund kommt mit einem ball im maul aus einem pool",
+        "tgt": "a dog coming out of a pool with a ball in his mouth"
+    },
+    {
+        "src": "eine person springt von einem gebäude zu einem anderen .",
+        "tgt": "a person is leaping between two buildings ."
+    },
+    {
+        "src": "ein grüner frosch mit großen augen auf einem ast mit grünen blättern .",
+        "tgt": "a green frog with big eyes on a branch with green leaves ."
+    },
+    {
+        "src": "ein mann mit einer kopfbedeckung und ein ausgestopfter affe",
+        "tgt": "a man with a cap and a stuffed monkey"
+    },
+    {
+        "src": "brücke mitten im wald .",
+        "tgt": "bridge in the middle of a forest ."
+    },
+    {
+        "src": "silhouette hoher berggipfel vor einem leuchtend orangefarbenen himmel .",
+        "tgt": "high mountain tops silhouetted against a brilliant orange sky ."
+    },
+    {
+        "src": "ein mann führt auf einem motorrad einen stunt vor , während andere zusehen .",
+        "tgt": "a man performs a jumping stunt on a motorcycle as onlookers watch ."
+    },
+    {
+        "src": "zwei frauen springen am ufer eines strands .",
+        "tgt": "two women jumping on the shore of a beach"
+    },
+    {
+        "src": "zwei personen in kajaks auf dem wasser .",
+        "tgt": "two people in kayaks on the water ."
+    },
+    {
+        "src": "ein mann , der nachts in der stadt skateboard fährt",
+        "tgt": "a man skating at night in the city"
+    },
+    {
+        "src": "ein blauer elektrobus , der als öffentliches verkehrsmittel dient .",
+        "tgt": "a blue electric public transportation bus ."
+    },
+    {
+        "src": "ein flugzeug , das beim aufstieg vor einem schneebedeckten berg einen streifen hinterlässt .",
+        "tgt": "a plane with smoke trailing its ascent in front of a snow covered mountain ."
+    },
+    {
+        "src": "ein busch mit tautropfen auf einem spinnennetz .",
+        "tgt": "a bush with dew drops on spider web ."
+    },
+    {
+        "src": "eine person mit helm auf einem fahrrad im gras .",
+        "tgt": "a person riding a bicycle on the grass wearing a helmet ."
+    },
+    {
+        "src": "ein alter mann , der am strand sitzt und am telefon spricht",
+        "tgt": "an old man talking on the phone sitting on a bench"
+    },
+    {
+        "src": "ein zug fährt auf den schienen durch etwas schnee .",
+        "tgt": "a train is moving on tracks next to some snow ."
+    },
+    {
+        "src": "eine junge frau steht auf dem rücken zweier pferde und führt kunststücke vor .",
+        "tgt": "a young woman performing tricks standing on the back of two horses ."
+    },
+    {
+        "src": "weiße frau mit einem einkaufswagen , die auf einem parkplatz ihr handy kontrolliert",
+        "tgt": "white woman checking her cell phone in a parking lot with a shopping cart"
+    },
+    {
+        "src": "eine reihe bunter parkbänke auf einem genweg .",
+        "tgt": "a row of colorful park benches on a sidewalk ."
+    },
+    {
+        "src": "volleyballspiel in der halle",
+        "tgt": "game of volleyball on the indoor court"
+    },
+    {
+        "src": "mehrere personen auf einem festival im freien mit essensverkäufern in der nähe .",
+        "tgt": "several people at an outdoor festival with food vendors nearby ."
+    },
+    {
+        "src": "eine frau und ein hund rennen über eine wiese .",
+        "tgt": "a woman and a dog are running on a grassy field ."
+    },
+    {
+        "src": "mehrere personen überqueren eine hölzerne fußgängerbrücke über sanddünen .",
+        "tgt": "several people crossing a wooden foot bridge over sand dunes ."
+    },
+    {
+        "src": "zwei pferde , ein schwarzes und ein braunes , und ein herr , der sie liebkost",
+        "tgt": "two horses one black and one brown and one gentleman caressing them"
+    },
+    {
+        "src": "ein blau-grünes gewässer mit kleinen booten , die wie punkte verstreut sind .",
+        "tgt": "a body of blue and green water with small boats dotting the scene ."
+    },
+    {
+        "src": "frau in einem hochzeitskleid auf stufen .",
+        "tgt": "woman in a wedding dress on the stairs ."
+    },
+    {
+        "src": "friedlicher see , umgeben von herbstlichen bäumen und bergen .",
+        "tgt": "a serene lake surrounded by mountains and autumn colored trees ."
+    },
+    {
+        "src": "eine steinbrücke über einen fluss in einer schönen stadt .",
+        "tgt": "a stone bridge across a river in a beautiful city ."
+    },
+    {
+        "src": "ein schwarzes auto auf einer rennbahn .",
+        "tgt": "there is a black car on a race track ."
+    },
+    {
+        "src": "ein steiniger pfad , ein see und ein berg .",
+        "tgt": "a rocky path , a lake , and a mountain ."
+    },
+    {
+        "src": "ein mädchen fährt in einer orangenen untertasse schlitten .",
+        "tgt": "a girl sleds down in an orange saucer ."
+    },
+    {
+        "src": "ein hund mit verfilztem fell watet durch tiefes wasser .",
+        "tgt": "a dog with matted fur wades through high water ."
+    },
+    {
+        "src": "ein mann geht eine leicht gebogene treppe hinauf .",
+        "tgt": "a man walks up a gently curving staircase ."
+    },
+    {
+        "src": "drei frauen stehen oder gehen im freien in der nähe einer wand .",
+        "tgt": "three women , walking or standing near a wall , outside ."
+    },
+    {
+        "src": "eine dame mit mehreren getränken zur auswahl",
+        "tgt": "a lady with several drinks options"
+    },
+    {
+        "src": "ein polizist und zwei bürger gehen eine straße entlang",
+        "tgt": "a policeman and two citizens walking down a street"
+    },
+    {
+        "src": "ein mann und zwei hunde beim campen",
+        "tgt": "one man and two dogs camping"
+    },
+    {
+        "src": "eine amerikanische fahne weht unter strahlend blauem himmel auf einem gotischen gebäude .",
+        "tgt": "an american flag waves on top of a gothic style building under bright blue sky ."
+    },
+    {
+        "src": "vier schwäne schwimmen in einem see",
+        "tgt": "four swans swimming in a lake"
+    },
+    {
+        "src": "eine rot gekleidete frei läuft neben anderen personen schlittschuh .",
+        "tgt": "a woman in red is ice skating among others ."
+    },
+    {
+        "src": "mädchen auf einem volleyballfeld spielen volleyball",
+        "tgt": "girls on a court playing volleyball"
+    },
+    {
+        "src": "ein kleiner junge schaut aus einem schaufenster heraus .",
+        "tgt": "a little boy is looking out of a shop window ."
+    },
+    {
+        "src": "arbeiter färben stoff in großen wannen .",
+        "tgt": "workers dyeing cloth in large wells ."
+    },
+    {
+        "src": "eine personengruppe rennt in ein gewässer .",
+        "tgt": "a group of people running into a body of water ."
+    },
+    {
+        "src": "eine musikergruppe spielt auf der straße",
+        "tgt": "group of musicians playing in the street"
+    },
+    {
+        "src": "eine frau , die in einer sehr schmalen gasse steht macht ein selfie .",
+        "tgt": "a woman standing in a very narrow alley takes a selfie ."
+    },
+    {
+        "src": "spiegelbilder von straßenlaternen strahlen aus einem ruhigen see .",
+        "tgt": "reflections from street lamps glow on a calm lake ."
+    },
+    {
+        "src": "eine steinbrücke über eine mit herbstbäumen gesäumte straße .",
+        "tgt": "a stone bridge over a road lined with autumn trees ."
+    },
+    {
+        "src": "leute in einer gepflasterten fußgängerzone gehen , rauchen und kaufen ein .",
+        "tgt": "people smoking , walking , and shopping , on a paved pedestrian street ."
+    },
+    {
+        "src": "eine frau hält einem hund , der auf einem sprungbrett sitzt , ein mikrofon hin und eine andere frau sitzt dahinter .",
+        "tgt": "a woman is holding a microphone to a dog sitting on a diving board with another woman sitting behind ."
+    },
+    {
+        "src": "ein junger mann in einem grünen t-shirt mit seinem hund .",
+        "tgt": "a young man wearing a green t-shirt with his dog ."
+    },
+    {
+        "src": "zwei teenager bei einem fußballspiel , die darum kämpfen , wer zuerst an den ball kommt",
+        "tgt": "two teenagers on a soccer match fighting to get to the ball first"
+    },
+    {
+        "src": "eine person fährt ein schwarzes auto .",
+        "tgt": "a person is driving a black car ."
+    },
+    {
+        "src": "eine frau und ihr hund unter der skulptur eines riesigen vergrößerungsglases",
+        "tgt": "a woman and her dog under a sculpture of a giant magnifying glass"
+    },
+    {
+        "src": "ein mädchen , das bei einem volleyballspiel hoch springt .",
+        "tgt": "a girl jumping high during a volleyball match ."
+    },
+    {
+        "src": "ein rehpaar im wald",
+        "tgt": "a pair of deer in the woods"
+    },
+    {
+        "src": "ein jockey , der gelb und violett gekleidet ist und auf einem pferd sitzt .",
+        "tgt": "a jockey wearing yellow and purple colors sitting upon a horse ."
+    },
+    {
+        "src": "ein mann mit einem wagen , der sachen verkauft",
+        "tgt": "a man with a wagon selling things"
+    },
+    {
+        "src": "ein kleiner vogel , der versucht durch den grünen maschendrahtzaun zu einer futterstelle zu gelangen .",
+        "tgt": "a small bird trying to get to a bird feeder through green mesh fencing ."
+    },
+    {
+        "src": "ein kleines mädchen auf einer schaukel und eine person vor ihr , die die arme ausstreckt .",
+        "tgt": "a little girl on a swing with a person with the arms outstretched in front of her ."
+    },
+    {
+        "src": "vier männer auf einer rennbahn , drei mit rotem oberteil und einer in weiß .",
+        "tgt": "four men on a running track , three with red shirts and one wearing white ."
+    },
+    {
+        "src": "eine person in einem schlafsack auf einem bürgersteig , umgeben von menschen , die herumgehen .",
+        "tgt": "a person in a sleeping bag on a sidewalk surrounded by people wandering about ."
+    },
+    {
+        "src": "eine person , die einen bürgersteig entlanggeht , und ein warnschild .",
+        "tgt": "a person walking down a sidewalk with a caution sign ."
+    },
+    {
+        "src": "ein mann mit bademütze und eine zeitungslesende frau sitzen auf bunten strandliegen .",
+        "tgt": "a man in a swim cap and a woman reading a newspaper sit on colorful beach loungers ."
+    },
+    {
+        "src": "frauen in pyjamas auf einer bühne rennen vor einer als weihnachtsbaum verkleideten person davon .",
+        "tgt": "women in pajamas run from a person dressed up as a christmas tree on a stage ."
+    },
+    {
+        "src": "frau und mann tanzen mit dosen in der hand",
+        "tgt": "woman and man dancing with cans in hand"
+    },
+    {
+        "src": "ein hund im wasser apportiert einen orangefarbenen ball in seinem maul .",
+        "tgt": "a dog playing fetch in the water , holding an orange ball in his mouth ."
+    },
+    {
+        "src": "der mann kommt von unten hoch .",
+        "tgt": "the man is coming up from underground ."
+    },
+    {
+        "src": "ein weiß gekleideter mann , der mit einem mädchen redet",
+        "tgt": "a man dressed in white talking to a girl"
+    },
+    {
+        "src": "ein cowgirl reitet eine enge kurve .",
+        "tgt": "a cowgirl performs a tight turn on her horse ."
+    },
+    {
+        "src": "silhouette eines segelboots auf ruhigem wasser unter einem goldenen sonnenuntergang .",
+        "tgt": "silhouette of a sailboat on calm water under a golden sunset ."
+    },
+    {
+        "src": "eine ente am ufer eines flusses",
+        "tgt": "a duck on the bank of a river"
+    },
+    {
+        "src": "drei mädchen mit papierbechern unterhalten sich .",
+        "tgt": "three girls with paper cups engage in conversation ."
+    },
+    {
+        "src": "eine junge frau schreibt beim gehen auf ihrem handy eine sms .",
+        "tgt": "a young woman texting on her phone while walking ."
+    },
+    {
+        "src": "vögel versammeln sich um ein vogelhaus .",
+        "tgt": "birds are congregrating around a birdhouse ."
+    },
+    {
+        "src": "weißer jet , der von der startbahn abhebt",
+        "tgt": "white jet taking off from the runway"
+    },
+    {
+        "src": "ein mann isst mit händen und stäbchen aus einer schale .",
+        "tgt": "a man eats from a bowl using his hands and chopsticks ."
+    },
+    {
+        "src": "eine verschneite fußgängerbrücke über einen kleinen fluss mit immergrünen pflanzen und hügeln im hintergrund .",
+        "tgt": "a snowy foot bridge over a small river with evergreens and hills in the background ."
+    },
+    {
+        "src": "ein feuerwehrmann zieht einen schlauch über seiner schulter .",
+        "tgt": "a firefighter drags a hose over his shoulder ."
+    },
+    {
+        "src": "eine bananenstaude und ein grüner zaun",
+        "tgt": "a banana tree and a green fence"
+    },
+    {
+        "src": "zwei personen , die aus einem dunklen flur herauskommen",
+        "tgt": "two people coming out of a dark hallway"
+    },
+    {
+        "src": "gruppe von sportlern in einem fahrradrennen",
+        "tgt": "group of athletes in a cycling competition"
+    },
+    {
+        "src": "eine gruppe von menschen , die eine brücke überqueren",
+        "tgt": "a group of people crossing a bridge"
+    },
+    {
+        "src": "eine um einen ast gewickelte schlange .",
+        "tgt": "a snake wrapped around a branch ."
+    },
+    {
+        "src": "ein junge mit schmutzigem gesicht lächelt .",
+        "tgt": "a boy with a dirty face smiles ."
+    },
+    {
+        "src": "eine person rutscht im freien auf dem skateboard ein blaues treppengeländer herunter .",
+        "tgt": "a person sliding a blue stair railing outside on their skateboard ."
+    },
+    {
+        "src": "ein junge kontrolliert einen sprung auf seinem roller .",
+        "tgt": "a young boy catching a jump on his scooter ."
+    },
+    {
+        "src": "ein mann sitzt auf einem felsen mit blick auf einen fluss .",
+        "tgt": "a man is sitting on a rock overlooking a river ."
+    },
+    {
+        "src": "zwei personen gehen am strand entlang .",
+        "tgt": "two people walking on the beach"
+    },
+    {
+        "src": "ein weißes pferd zwischen einer grasartigen blühenden blume und roten felsen .",
+        "tgt": "a white horse between a grassylike flowering plant and red rocks ."
+    },
+    {
+        "src": "ein wunderschöner sonnenuntergang über dem wasser mit bergen im hintergrund .",
+        "tgt": "a gorgeous sunset over the water with mountains in the background ."
+    },
+    {
+        "src": "ein fischnetz auf dem deck eines roten boots",
+        "tgt": "a fishing net on the deck of a red boat"
+    },
+    {
+        "src": "ein flugzeug fliegt am himmel .",
+        "tgt": "an airplane is flying in the sky ."
+    },
+    {
+        "src": "von unter dem schuh des fotografen nach oben hin aufgenommenes foto .",
+        "tgt": "upshot from below the subject focusing on his shoe ."
+    },
+    {
+        "src": "ein see und fabrikschornsteine",
+        "tgt": "a lake and chimneys of a factory"
+    },
+    {
+        "src": "ein junge versucht , einen basketball rückwärts in den korb zu werfen .",
+        "tgt": "a boy is trying to make a backwards basketball shot ."
+    },
+    {
+        "src": "ein von nadelbäumen gesäumter see bei sonnenuntergang .",
+        "tgt": "a lake surrounded by evergreens at sunset ."
+    },
+    {
+        "src": "ein hund spielt auf einem rasen mit zwei bällen .",
+        "tgt": "a dog is playing with two balls on a lawn ."
+    },
+    {
+        "src": "die ziegelfassade eines gebäudes mit einem baumbestandenen hügel im hintergrund .",
+        "tgt": "a building &apos;s brick facade with a tree covered hill in the background ."
+    },
+    {
+        "src": "verstreute traubenstöcke und berge , rote erde",
+        "tgt": "a sowing of grapes and mountains , red earth"
+    },
+    {
+        "src": "auf dem tanzparkett springende violett gekleidete tänzerin",
+        "tgt": "dancer jumping on the dance floor with purple dress"
+    },
+    {
+        "src": "kleines mädchen , das am strand seine füße wäscht",
+        "tgt": "little girl washing her feet on the beach"
+    },
+    {
+        "src": "eine straße , die sich in der bergen durch einen nadelwald schlängelt .",
+        "tgt": "a winding road through an evergreen forest high in the mountains ."
+    },
+    {
+        "src": "zwei personen an einer steigung , die kameras tragen .",
+        "tgt": "two people on an incline carrying cameras ."
+    },
+    {
+        "src": "radfahrergruppe in einem rennen",
+        "tgt": "group of cyclists in a competition"
+    },
+    {
+        "src": "eine frau beugt sich in das heck ihres autos , wo ein hund sitzt .",
+        "tgt": "a woman is reaching into the hatchback of her car where a dog is sitting ."
+    },
+    {
+        "src": "eine weiße katze steht in einem überdachten gässchen auf dem rand eines offenen abfallcontainers .",
+        "tgt": "a white cat is standing on the ledge of an open dumpster in a covered alleyway ."
+    },
+    {
+        "src": "frau und kind in der mitte des platzes",
+        "tgt": "woman and child in the middle of the square"
+    },
+    {
+        "src": "ein süßer welpe im schnee spielt mit einem roten ball .",
+        "tgt": "a cute puppy playing with a red ball in the snow ."
+    },
+    {
+        "src": "bmx-fahrer kommt beim rennen als erster durch das ziel .",
+        "tgt": "bmx rider finishes the race in front ."
+    },
+    {
+        "src": "ein blonder junger mann in einem roten rugby-dress mit einem weiß-blauen rugby-ball in der rechten hand rennt von den anderen weiß-rot gekleideten gegnern weg .",
+        "tgt": "a young blonde man in a red rugby uniform with a white and blue rugby ball in his right hand runs from the other opponents in white and red uniforms ."
+    },
+    {
+        "src": "ein hund liegt im gras und kaut auf einem kunststoffbehälter .",
+        "tgt": "a dog chews on a plastic container while lying on the grass ."
+    },
+    {
+        "src": "weiße säulen und bögen in einem dunklen raum .",
+        "tgt": "white columns and arches in a dark room ."
+    },
+    {
+        "src": "frauen spielen mit einem orangenen ball lacrosse .",
+        "tgt": "women are playing lacrosse with an orange ball ."
+    },
+    {
+        "src": "weiß-gelbe blume mit einer fliege .",
+        "tgt": "white and yellow flower with small bee ."
+    },
+    {
+        "src": "mann mit fahrrad verkauft produkte auf der straße",
+        "tgt": "a man with his bicycle selling his products on a street"
+    },
+    {
+        "src": "zwei männer in uniform spielen im schnee fußball .",
+        "tgt": "two men in uniforms are playing football in the snow ."
+    },
+    {
+        "src": "leute , die als cowboys und indianer verkleidet sind , führen ein stück auf .",
+        "tgt": "people dressed as cowboys and indians are putting on a play ."
+    },
+    {
+        "src": "ein blonder junge hält die hand eines mannes .",
+        "tgt": "a blond boy holding a man &apos;s hand ."
+    },
+    {
+        "src": "ein geier breitet seine flügel aus .",
+        "tgt": "a vulture spreads it &apos;s wings ."
+    },
+    {
+        "src": "gebäude bei nacht , die in den verschiedenen farben der lampen leuchten",
+        "tgt": "buildings at night that shine with the different colors of the lights"
+    },
+    {
+        "src": "zwei mädchenteams spielen fußball .",
+        "tgt": "two teams of girls are playing soccer ."
+    },
+    {
+        "src": "kinder auf einem festival sind verkleidet und tragen gesichtsbemalung .",
+        "tgt": "children are dressed up in costumes and face paint at a festival ."
+    },
+    {
+        "src": "ein mann im rot-schwarzen dress wird von einem mitspieler aus demselben team hochgehalten , während er versucht , den ball zu fangen , und mehrere andere spieler versuchen , zu helfen .",
+        "tgt": "a man in a red and black uniform is being held up by a teammate as he tries to catch the ball while several other teammates try to assist them ."
+    },
+    {
+        "src": "eine straße , auf die muster gemalt sind .",
+        "tgt": "a street has painted designs on it ."
+    },
+    {
+        "src": "eine person wirft einen langen schatten über einen gepflasterten gehweg .",
+        "tgt": "person casts a long shadow across a paved sidewalk ."
+    },
+    {
+        "src": "ein volleyballspieler springt hoch , um den ball zu treffen .",
+        "tgt": "a volleyball player jumping to hit the ball ."
+    },
+    {
+        "src": "eine einzelne frau steht auf dem parkdeck einer autofähre .",
+        "tgt": "a lone woman standing on the parking deck of a car ferry ."
+    },
+    {
+        "src": "ein mann , sein pferd und sein bester freund , der hund .",
+        "tgt": "a man , his horse and his best friend , his dog ."
+    },
+    {
+        "src": "ein weißes rennauto mit der nummer 15 auf einer rennbahn .",
+        "tgt": "a white race car with the number 15 on a track ."
+    },
+    {
+        "src": "ein hohes schwarz-braunes gebäude erhebt sich über den niedrigeren , eng beieinander stehenden gebäuden , die es umgeben .",
+        "tgt": "a tall black and brown building rises above the lower crowded buildings around it ."
+    },
+    {
+        "src": "zwei männer , einer in weiß und einer in schwarz , spielen fußball .",
+        "tgt": "two men one in white and the other in black are playing soccer ."
+    },
+    {
+        "src": "ein mädchen in einem schwarzen kurzärmeligen oberteil und einem langen rosafarbenen rock in der nähe eines großen sees hat einen langen , dünnen bambusstab in der hand und blickt auf die feuchte mit kieselsteinen versehene erde .",
+        "tgt": "a young girl in a black short sleeved shirt and a long pink skirt has a long , thin bamboo stick in her hand and looks down at the moist , pebbled soil near a large lake ."
+    },
+    {
+        "src": "ein regenbogen steigt in einem dunklen wolkigen himmel auf .",
+        "tgt": "a rainbow rises in a dark clouded sky ."
+    },
+    {
+        "src": "zuschauer sehen den vorbeifahrenden radrennfahrern zu .",
+        "tgt": "by standers watch as the cyclists race by ."
+    },
+    {
+        "src": "eine picknickstelle mit einer kleinen feuerstelle im vordergrund einer landschaftsaufnahme von einem see und bergen .",
+        "tgt": "a picnic site with a small fire pit takes the foreground in a scenic shot of a lake and mountains ."
+    },
+    {
+        "src": "ein paar füße in socken in der nähe eines feuers in einem fass .",
+        "tgt": "a pair of feet with socks on are by a fire in a barrel ."
+    },
+    {
+        "src": "der grufti spielt bei einem konzert gitarre .",
+        "tgt": "the goth guitarist is preforming at a concert ."
+    },
+    {
+        "src": "der basketballspieler hechtet nach vorn , um den ball vom anderen team fernzuhalten .",
+        "tgt": "the basketball player dives the keep the ball from the other team ."
+    },
+    {
+        "src": "ein junges paar betrachtet mitten in der nacht am rand eines strands etwas auf einem tablet .",
+        "tgt": "a young couple watching something on a tablet in the middle of the night at the edge of a beach"
+    },
+    {
+        "src": "rot und violett gekleidete leute schlagen auf trommeln .",
+        "tgt": "people in red and purple outfits bang on drums ."
+    },
+    {
+        "src": "ein holzzaun umgibt ein schneebedecktes feld .",
+        "tgt": "a wood fence surrounding a snow covered field ."
+    },
+    {
+        "src": "leute fahren in einem blauen schlauchboot einen reißenden bach herunter .",
+        "tgt": "people are rafting down a fast stream in a blue rubber raft ."
+    },
+    {
+        "src": "mädchen mit bemalten gesichtern tragen stühle .",
+        "tgt": "girls with painted faces carry chairs ."
+    },
+    {
+        "src": "ein flacher fluss mit herbstlichen bäumen auf beiden seiten .",
+        "tgt": "a shallow river with autumn colored trees on either side ."
+    },
+    {
+        "src": "eine frau geht im dunkeln eine mit autos gesäumte straße entlang .",
+        "tgt": "a woman walking down a street lined with cars in the dark ."
+    },
+    {
+        "src": "eine person macht hoch über dem gras einen kunstsprung auf dem fahrrad .",
+        "tgt": "a person is high above the grass doing a trick jump on his bike ."
+    },
+    {
+        "src": "kleines mädchen , das einen eimer mit spielzeug trägt .",
+        "tgt": "little girl carrying a bucket of toys ."
+    },
+    {
+        "src": "ein typ wird von einem steg in einen see geschubst .",
+        "tgt": "a guy gets pushed off the pier into a lake ."
+    },
+    {
+        "src": "zwei leute gehen auf einem kopfsteinpflasterweg , der von gebüsch umgeben ist , im hintergrund ein gewässer und eine gebirgszug .",
+        "tgt": "two people walking on a cobbled path surrounded by shrubbery with a body of water and mountain range in the background ."
+    },
+    {
+        "src": "eine frau mit einem trägerhemd posiert mit ihrem hund vor einem geländer .",
+        "tgt": "a woman in a tank top poses with her dog in front of a guardrail ."
+    },
+    {
+        "src": "eine frau in einer kunstausstellung geht in die hocke , um zu fotografieren .",
+        "tgt": "a woman squats to take a photograph in an art gallery ."
+    },
+    {
+        "src": "auto , das durch einen bach mit klarem wasser fährt",
+        "tgt": "car passing through a stream of clear water"
+    },
+    {
+        "src": "ein hund treibt ein paar kühe in ein gehege .",
+        "tgt": "a dog is herding a couple of cows into a pen ."
+    },
+    {
+        "src": "mehrere personen stehen auf einer straße .",
+        "tgt": "a group of people stand on a road ."
+    },
+    {
+        "src": "ein gewässer mit felsigem berg und bäumen .",
+        "tgt": "body of water with rocky mountain and trees ."
+    },
+    {
+        "src": "zwei hölzerne fußwege kreuzen sich am strand .",
+        "tgt": "two wooden walkways intersect on the beach ."
+    },
+    {
+        "src": "ein mann sitzt mit seinem hund am straßenrand .",
+        "tgt": "a man sitting on a curb with his dog ."
+    },
+    {
+        "src": "eine person mit roten hosen beim skifahren .",
+        "tgt": "a person wearing red pants is skiing down a hillside ."
+    },
+    {
+        "src": "ein wasserkanal mit einem grünen grasbewachsenen ufer .",
+        "tgt": "a water canal with a green bank of grass ."
+    },
+    {
+        "src": "ein roter stuhl steht neben einer mülltonne an einer campingstelle im wald .",
+        "tgt": "a red chair sits by a trash can at a camping spot in the woods ."
+    },
+    {
+        "src": "ein holzbalkenzaun umgeben von einer hohen wiese mit großen bäumen im hintergrund .",
+        "tgt": "a log fence is surrounded by overgrown grass with large trees in the distance ."
+    },
+    {
+        "src": "eine biene landet auf einer rosafarbenen rose .",
+        "tgt": "a bee is landing on a pink rose ."
+    },
+    {
+        "src": "die wolken bauen sich dicht über einer stadt auf .",
+        "tgt": "the clouds massively build up over a city ."
+    },
+    {
+        "src": "schlafendes , mit einem laken bedecktes kind",
+        "tgt": "child asleep and clothed with a sheet"
+    },
+    {
+        "src": "eine frau geht nachts im mondschein am schäumenden meer entlang .",
+        "tgt": "a woman walks along the foam of the ocean on a moon lit night ."
+    },
+    {
+        "src": "ein mann mit blau-weißem baseball-dress steht an der abwurfstelle und wirft den ball .",
+        "tgt": "a man in a blue and white baseball uniform is standing on the pitcher &apos;s mound throwing the ball ."
+    },
+    {
+        "src": "mehrere tänzer auf einer blauen bühne",
+        "tgt": "group of dancers on a blue stage"
+    },
+    {
+        "src": "drei personen , alle mit einem mobilgerät beschäftigt , stehen vor einer metalltür im freien .",
+        "tgt": "three people , each on a mobile device , standing outside in front of a metal door ."
+    },
+    {
+        "src": "altes schmutziges schild , das deutlich macht , dass man an dieser stelle diagonal parken muss",
+        "tgt": "old dirty signal that clearly explains that in that place you have to park diagonally"
+    },
+    {
+        "src": "zwei kinder spielen hinten in einem lkw .",
+        "tgt": "two children play in the back of a truck"
+    },
+    {
+        "src": "ein see oder fluss mit großen hügeln und kliffs im hintergrund .",
+        "tgt": "a lake or river with large hills and cliffs in the background ."
+    },
+    {
+        "src": "frau auf dem bürgersteig einer belebten straße , die zur seite blickt .",
+        "tgt": "woman on a sidewalk along a busy street looking to the side ."
+    },
+    {
+        "src": "ein paar mit einem kind geht auf einen großen felsen im wasser zu .",
+        "tgt": "a couple with a child walk towards a large rock in the water ."
+    },
+    {
+        "src": "ein snowboarder fährt einen berg herunter .",
+        "tgt": "a snowboarder is going down a mountain ."
+    },
+    {
+        "src": "eine pink gekleidete dame ist von einem baum mit pinkfarbenen blüten umgeben .",
+        "tgt": "a lady wearing pink is surrounded by a tree with pink flowers ."
+    },
+    {
+        "src": "eine frau in einem schwarzen bikini und mit schwarzer fliege geht durch das wasser , leute in überlebensausrüstung neben ihr .",
+        "tgt": "a woman in a black bikini and black bowtie walking through the water with people in survival gear beside her ."
+    },
+    {
+        "src": "zwei jungen und zwei mädchen reiben ihre hände zusammen .",
+        "tgt": "two boys and two girls are rubbing their hands together ."
+    },
+    {
+        "src": "ein polizist trainiert einen schwarzen polizeihund .",
+        "tgt": "a police officer training a black police dog ."
+    },
+    {
+        "src": "eine grüne pflanze wächst in einem grauen zementschuh .",
+        "tgt": "a green plant is growing in a gray cement boot ."
+    },
+    {
+        "src": "eine graffitibedeckte wand , auf der astronauten auf einem fliegenden teppich zu sehen sind .",
+        "tgt": "a graffiti covered wall depicting astronauts flying a magic carpet ."
+    },
+    {
+        "src": "weiß-blauer mini-rennwagen auf einem schotterweg .",
+        "tgt": "white and blue mini coup racecar on gravel road ."
+    },
+    {
+        "src": "ein mann fährt fahrrad und die sonne strahlt .",
+        "tgt": "the sun glares as a man rides his bike ."
+    },
+    {
+        "src": "skifahrende person fährt in richtung wald",
+        "tgt": "person skiing , going down a mountain towards the forest"
+    },
+    {
+        "src": "ein mann in rotem dress greift beim sport einen mann in blauem dress an .",
+        "tgt": "a man in a red uniform tackles another man in a blue uniform while playing sports ."
+    },
+    {
+        "src": "zwei pferde stehen beieinander .",
+        "tgt": "two horses stand by each other ."
+    },
+    {
+        "src": "ein flugzeug fliegt niedrig über etwas , das wie eine autoshow aussieht",
+        "tgt": "plane flying low on what looks like a car show"
+    },
+    {
+        "src": "feuerwerk am nachthimmel .",
+        "tgt": "fireworks in the night sky ."
+    },
+    {
+        "src": "eine ältere frau im bikini beim sonnenbaden auf einem felsen im meer",
+        "tgt": "an older woman in a bikini is sunbathing on a rock by the ocean ."
+    },
+    {
+        "src": "drei personen gehen über einen leeren parkplatz in einer stadt .",
+        "tgt": "three people walk through an empty parking lot of a city ."
+    },
+    {
+        "src": "mehrere wüstenbäume im sonnenuntergang",
+        "tgt": "several desert trees are featured at sunset ."
+    },
+    {
+        "src": "die seite eines gebäudes wurde mit dem graffiti eines jungen mit krone markiert .",
+        "tgt": "the side of a building has been tagged with graffiti of a young boy wearing a crown ."
+    },
+    {
+        "src": "ein einzelner mann , der vom strand aus nach oben blickt .",
+        "tgt": "a lone man gazing upwards from the beach ."
+    },
+    {
+        "src": "zwei kricketspieler von gegnerischen teams in aktion .",
+        "tgt": "two cricket players from opposing teams , in action ."
+    },
+    {
+        "src": "die straße vor einem cafe mit an tischen essenden menschen .",
+        "tgt": "the street outside of a cafe with people eating at tables ."
+    },
+    {
+        "src": "mann in der u-bahn liest zeitung .",
+        "tgt": "man on the subway reads the paper ."
+    },
+    {
+        "src": "ein braun-weißer hund schaut durch den zaun .",
+        "tgt": "a brown and white dog looking through a fence"
+    },
+    {
+        "src": "ein mann mit einer dose in der hand und ein mann auf einer ampel in der nacht .",
+        "tgt": "a man holding a can and a man on a traffic pole are outside in the night ."
+    },
+    {
+        "src": "steintreppe zu einem ausgebleichten holztor .",
+        "tgt": "stone stairway to a faded wooden gate ."
+    },
+    {
+        "src": "ein großes weißes riesenrad hinter einem beigen steingebäude und mehrere männer , die davor stehen",
+        "tgt": "a large white ferris wheel beside a tan stone building with a group of men standing in front of it"
+    },
+    {
+        "src": "zwei frauen sitzen neben einem fluss , im hintergrund angelnde männer .",
+        "tgt": "a pair of women are sitting next to a river as men fish in the background ."
+    },
+    {
+        "src": "ein schwarzer sportwagen mit einer gopro-kamera fährt auf einem übungsplatz mit orangefarbenen kegeln .",
+        "tgt": "a black sports car with a go pro goes through a closed course with orange cones ."
+    },
+    {
+        "src": "ein brauner hund rennt mit einem rot-grauen halb leeren ball im maul durch den schnee .",
+        "tgt": "a brown dog running through the snow with a red and gray partially deflated ball in his mouth ."
+    },
+    {
+        "src": "zwei hunde verfolgen einander spielerisch wegen eines balls .",
+        "tgt": "two dogs playfully chasing each other over a ball ."
+    },
+    {
+        "src": "das baseballspieler holt kräftig aus .",
+        "tgt": "the baseball player takes a big swing ."
+    },
+    {
+        "src": "zwei frauen befinden sich vor einem glasgebäude .",
+        "tgt": "two women are in front of a glass building ."
+    },
+    {
+        "src": "eine rot gekleidete frau rennt die straße entlang .",
+        "tgt": "a woman in a red outfit races down the street ."
+    },
+    {
+        "src": "eine frau am strand geht am wasser entlang .",
+        "tgt": "a woman is walking along the water on the beach ."
+    },
+    {
+        "src": "kinder und erwachsene mit gelben westen",
+        "tgt": "children and adults with yellow vests"
+    },
+    {
+        "src": "ein mann macht ein kunststück auf dem fahrrad .",
+        "tgt": "man doing trick on bicycle ."
+    },
+    {
+        "src": "eine ältere frau sitzt bei einem gebäude auf einem stuhl .",
+        "tgt": "an older woman sitting on a stool by a building ."
+    },
+    {
+        "src": "eine holzhütte ist von bäumen und büschen umgeben .",
+        "tgt": "a log cabin is surrounded by trees and bushes ."
+    },
+    {
+        "src": "ein bergsteiger bewegt sich mit einem pickel und einer blauen kopfbedeckung durch den schnee .",
+        "tgt": "a mountain climber trecking through the snow with a pick and a blue hat ."
+    },
+    {
+        "src": "eine frau am strand geht am ufer entlang .",
+        "tgt": "a woman walks along the shore on the beach ."
+    },
+    {
+        "src": "der tennisspieler sieht dem ball nach , nachdem er ihn geschlagen hat .",
+        "tgt": "the tennis player watches the ball after he hits it ."
+    },
+    {
+        "src": "die ente flattert auf den nassen steinen am wasser mit den flügeln .",
+        "tgt": "the duck flaps its wings on the wet rocks by the water ."
+    },
+    {
+        "src": "ein steiniges flussufer verläuft an städtischen gebäuden entlang , gegenüber dem park .",
+        "tgt": "a rocky shore of a river that runs along the city buildings opposite the park ."
+    },
+    {
+        "src": "leute mit roter und weißer kleidung auf einem kopfsteinpflasterweg , einige liegen , andere sind in der hocke , zuschauer sehen zu .",
+        "tgt": "people wearing red and white clothing on a cobblestone walkway , , some lying down , other crouching with spectators watching ."
+    },
+    {
+        "src": "in verschiedene kostüme gekleidete personen versammeln sich im freien .",
+        "tgt": "people dressed in different costumes gather outside ."
+    },
+    {
+        "src": "radfahrer fahren auf einer geteerten straße um die wette .",
+        "tgt": "cyclists racing on a paved street ."
+    },
+    {
+        "src": "ein reiter kommt den pfad durch den wald auf den betrachter zu .",
+        "tgt": "the horse rider is coming down the path through the woods ."
+    },
+    {
+        "src": "drei frauen spielen lacrosse .",
+        "tgt": "three woman are playing lacrosse ."
+    },
+    {
+        "src": "ein großes felsiges und grasbewachsenes kliff befindet sich in der nähe einer küstenlinien , wo eine person in blauer jacke und dunklen hosen steht .",
+        "tgt": "a large rocky and grassy clif is near a shoreline where a person in a blue jacket and dark bottoms stands ."
+    },
+    {
+        "src": "ein mädchen geht einige stufen hoch .",
+        "tgt": "a little girl is walking up some stairs ."
+    },
+    {
+        "src": "ein schnellboot mit hölzernen planken entlang der oberseite fährt mit einer vierköpfigen familie durch das wasser .",
+        "tgt": "a speedboat with wooden planks along the top going through the water with a family of 4 inside ."
+    },
+    {
+        "src": "feuerwerk bei einem live-konzert",
+        "tgt": "fireworks at a live concert"
+    },
+    {
+        "src": "reiter geben ihren pferden die sporen , um das rennen zu gewinnen .",
+        "tgt": "riders spur their horses on to win the race ."
+    },
+    {
+        "src": "ein junger mann mit rot-goldenem baseballtrikot und roter baseballmütze ist kurz davor , einen baseball zu werfen .",
+        "tgt": "a young man wearing a red and gold baseball jersey and a red baseball cap is about to throw a baseball ."
+    },
+    {
+        "src": "ein football-team mit weiß-roten trikots hat gerade einen punkt gegen ein team mit blau-weißen trikots gemacht , weshalb sie feiern ; aber im hintergrund scheint ein mitglied des blau-weißen teams verletzt zu sein .",
+        "tgt": "a football team with white and red jerseys has just scored against a team wearing blue and white jerseys so they are celebrating but it appears that a member from the blue and white team has been hurt in the background"
+    },
+    {
+        "src": "ein großer flacher , grün-blauer see ist von hohen , dünnen , konischen grünen bäumen umgeben , in der ferne ein grauer gebirgszug .",
+        "tgt": "a large , shallow , greenish-blue lake is surrounded tall , thin , conic , green trees with a grey mountain range in the distance ."
+    },
+    {
+        "src": "der basketballspieler von southern oregon wirft den ball .",
+        "tgt": "the basketball player from southern oregon takes a shot ."
+    },
+    {
+        "src": "eine frau beim stabhochsprung mitten im sprung .",
+        "tgt": "a woman in mid jump over a pole vault ."
+    },
+    {
+        "src": "zwei mädchen , eines auf einem kleinen fahrrad , das andere auf einem dreirad , in einem sandigen bereich .",
+        "tgt": "two young girls , , one on small bike , other on small tricycle , on sandy area ."
+    },
+    {
+        "src": "eine person steht unter einem großen weißen felsen auf einem weißen fußweg , wo im hintergrund ein paar palmen zu sehen sind .",
+        "tgt": "a person is standing under a large white rock on a white walkway that has a few palm trees featured in the background ."
+    },
+    {
+        "src": "ein mann malt komplizierte muster auf große töpfe .",
+        "tgt": "a man paints intricate designs on large pots ."
+    },
+    {
+        "src": "leute sehen zu , wie zwei frauen einen pfosten hochklettern .",
+        "tgt": "people watch as two women climb a pole ."
+    },
+    {
+        "src": "zwei männer führen fahrradkunststücke auf blöcken vor .",
+        "tgt": "two men performing bicycle tricks on blocks ."
+    },
+    {
+        "src": "ein mann mit bart , gestreiftem hemd und blauen jeans spielt im herbst draußen mit seiner hellbraunen bulldogge .",
+        "tgt": "a man with a beard , striped shirt , and blue jeans is playing with his tan colored bulldog outside in the fall"
+    },
+    {
+        "src": "der hund wartet darauf , dass die person die frisbeescheibe wirft .",
+        "tgt": "dog waits for the person to throw the frisbee"
+    },
+    {
+        "src": "der torhüter versucht , einen gegnerischen schuss zu halten .",
+        "tgt": "goalie tries to block opponents shot ."
+    },
+    {
+        "src": "schirmständer mit einem mann , der auf einem gepflasterten gehweg steht .",
+        "tgt": "umbrella stall with man standing on cobblestone sidewalk ."
+    },
+    {
+        "src": "blick nach oben zwischen drei hohen gebäuden in der dämmerung .",
+        "tgt": "the upward view between three tall buildings at dusk ."
+    },
+    {
+        "src": "der kofferraum eines hellblauen autos ist offen .",
+        "tgt": "the trunk is open on a light blue car ."
+    },
+    {
+        "src": "ein frauen-volleyballspiel mit vielen zuschauern",
+        "tgt": "a women &apos;s volleyball game with many spectators"
+    },
+    {
+        "src": "eine person , die oben auf einem hügel ein gebilde aus holz zu schieben scheint , während eine andere person auf der andere seite dieses gebildes sitzt .",
+        "tgt": "a person is pushing on a wooden structure on top of a hill while another person sits on the other side of that structure ."
+    },
+    {
+        "src": "ein fahrradfahrer auf einer serpentine in einer berglandschaft .",
+        "tgt": "a cyclist on a winding road in a mountain range area ."
+    },
+    {
+        "src": "drei rehe grasen neben einem apartmentgebäude .",
+        "tgt": "three deer are grazing in the grass next to an apartment building ."
+    },
+    {
+        "src": "eine sicht auf den himmel bei dämmerung von hinter einem &quot; boston &quot; -schild .",
+        "tgt": "a dusk view of the sky from behind a sign that reads boston ."
+    },
+    {
+        "src": "fensterausblick auf einen landschaftlich gestalteten hof",
+        "tgt": "windows look out onto a landscaped courtyard ."
+    },
+    {
+        "src": "ein blaues auto fährt eine nasse , kurvenreiche straße entlang .",
+        "tgt": "a blue car is driving along a curvy wet road ."
+    },
+    {
+        "src": "eine person trägt ein pelziges violettes kostüm , an dem zwei tierköpfe befestigt sind .",
+        "tgt": "a person is wearing a furry purple costume with two beast heads attached ."
+    },
+    {
+        "src": "menschen gehen for einem gebäude in griechischem stil .",
+        "tgt": "people are walking in front of a greek style building ."
+    },
+    {
+        "src": "eine junger tänzerin mit einem rosafarbenen trägerhemd posiert mit einem grünen ball .",
+        "tgt": "a young dancer with a pink tank top is posing with a green ball ."
+    },
+    {
+        "src": "ein schwarzer hund sitzt unter einem blauen schirm .",
+        "tgt": "a black dog sits under a blue umbrella ."
+    },
+    {
+        "src": "ornamentstrukturen auf einem platz",
+        "tgt": "ornament structures in a square"
+    },
+    {
+        "src": "eine ältere person geht eine straße mit einer großen künstlerischen wandmalerei entlang .",
+        "tgt": "an older person walking down a street that has a large artistic mural"
+    },
+    {
+        "src": "der junge lächelt für ein badezimmerbild mit schwarzem graffiti an der wand .",
+        "tgt": "the boy smiles for a bathroom picture with black graffiti on the wall ."
+    },
+    {
+        "src": "ein paar steht in einer menschenmenge und beobachtet die ereignisse .",
+        "tgt": "a couple watches events standing in a crowd ."
+    },
+    {
+        "src": "ein brauner hund und ein schwarzer hund springen von einem steinernen vorsprung in wasser .",
+        "tgt": "a brown dog and a black dog are jumping off a stone ledge into some water ."
+    },
+    {
+        "src": "der snowboarder springt im schnee .",
+        "tgt": "the snowboarder is jumping in the snow ."
+    },
+    {
+        "src": "ein mann sitzt in einer kunstgalerie auf einer bank .",
+        "tgt": "a man sits on a bench in an art gallery ."
+    },
+    {
+        "src": "wolken hängen über einer weiten landschaft aus plateaus und bergen .",
+        "tgt": "clouds cover a vast landscape of plateaus and mountains ."
+    },
+    {
+        "src": "hund neben einer dame , die schlafend im bett liegt",
+        "tgt": "dog lying next to a lady asleep in bed"
+    },
+    {
+        "src": "ein mann mit an die hüfte gebundenen luftballons ist mit mehreren anderen menschen im wasser .",
+        "tgt": "a man with balloons tied to his waist is in the water with a group of other people ."
+    },
+    {
+        "src": "ein see mit einem berg im hintergrund an einem hellen , sonnigen tag .",
+        "tgt": "a bright sunny day featuring a lake with a mountain in the background ."
+    },
+    {
+        "src": "leute sitzen an einem tisch mit dem rücken zum beobachter .",
+        "tgt": "people are siting at a table with their backs turned ."
+    },
+    {
+        "src": "ein mann mit einem skateboard der auf stufen springt .",
+        "tgt": "a man with a skateboard jumping the stairs ."
+    },
+    {
+        "src": "ein kleiner junge liegt schlafend im bett und hält eine zeitschrift , während sein stofftierfreund in einem auf dem boden gebastelten bett neben ihm schläft .",
+        "tgt": "a little boy is asleep in bed holding a magazine while his stuffed animal friend is asleep in a makeshift bed on the floor beside him"
+    },
+    {
+        "src": "ein eichhörnchen riecht an einer schwarzen verspertüten auf einem picknicktisch .",
+        "tgt": "a squirrel sniffs at a black lunch bag on a picnic table ."
+    },
+    {
+        "src": "ein hellbrauner rehbock mit geweih und ein hintergrund aus moos und felsen .",
+        "tgt": "a light brown male deer with antlers and a backdrop of moss and rocks ."
+    },
+    {
+        "src": "ein skateboarder macht aufnahmen von einem anderen skateboarder .",
+        "tgt": "a skateboarder is recording another skateboarder ."
+    },
+    {
+        "src": "frauen und kinder , alle in kleidung mit leopardenmuster , marschieren .",
+        "tgt": "women and children marching while all wearing leopard print clothing ."
+    },
+    {
+        "src": "über die steine und den bach führt eine brücke zu hohen städtischen gebäuden .",
+        "tgt": "across the rocks and creek is a bridge leading to tall city buildings ."
+    },
+    {
+        "src": "ein weißer oldtimer fährt bei einer veranstaltung auf um die kurve .",
+        "tgt": "a vintage white car turns on the curved road at an event ."
+    },
+    {
+        "src": "die frau hält dem gelblichen hund etwas hin .",
+        "tgt": "woman holding out green object to yellow dog ."
+    },
+    {
+        "src": "ein pfad führt zu einer pagode .",
+        "tgt": "a path leads to a pagoda ."
+    },
+    {
+        "src": "pferde und jockeys beim rennen .",
+        "tgt": "horses and jockeys are racing ."
+    },
+    {
+        "src": "auf einem campingplatz sind nachts an einem vorzelt lichter eingeschaltet .",
+        "tgt": "lights are lit up on an awning in a campground at night ."
+    },
+    {
+        "src": "surfer auf dem wasser , auf einem rosafarbenen surfbrett stehend .",
+        "tgt": "surfer on water , standing on pink surfboard ."
+    },
+    {
+        "src": "zwei fußgänger benutzen einen fußgängerüberweg .",
+        "tgt": "two pedestrians are using a crosswalk ."
+    },
+    {
+        "src": "ein wasserfall schneidet durch die felsen im wald .",
+        "tgt": "a waterfall is cutting through the rocks in the forest ."
+    },
+    {
+        "src": "mädchen in roten kostümen tanzen .",
+        "tgt": "girls in red costumes are dancing ."
+    },
+    {
+        "src": "blick auf einen feldweg und grünes gras zwischen den hohen kahlen kliffs der felsenformationen",
+        "tgt": "the view of a dirt path and green grass among the tall barren cliffs of rock formations"
+    },
+    {
+        "src": "ein motorradfahrer nimmt mit seinem motorrad an einem wettkampf teil .",
+        "tgt": "a motorcyclist competing with his bike"
+    },
+    {
+        "src": "wasser fällt über eine felsenklippe mit einer kleinen hütte .",
+        "tgt": "water falling over a rocky crag with a small shed ."
+    },
+    {
+        "src": "bäume stehen vor einem großen berg .",
+        "tgt": "trees are in front of a large mountain ."
+    },
+    {
+        "src": "ein elch rennt zwischen den bäumen .",
+        "tgt": "an elk is running through the trees ."
+    },
+    {
+        "src": "ein mann und sein hund spielen im schnee .",
+        "tgt": "a man and his dog playing in the snow"
+    },
+    {
+        "src": "eine große menschengruppe schließt sich zusammen , um einen menschlichen turm zu bilden .",
+        "tgt": "a large group of people huddle together to make a human tower ."
+    },
+    {
+        "src": "drei personen lassen in der dämmerung auf einem kleinen hügel einen drachen steigen .",
+        "tgt": "three people flying a kite on a small hill at dusk ."
+    },
+    {
+        "src": "zwei ungewöhnliche skulpturen vor einem see .",
+        "tgt": "two unusual sculptures in front of a lake ."
+    },
+    {
+        "src": "ein mädchen , das mitten im wald seine arme ausstreckt .",
+        "tgt": "a girl holding her arms out in the middle of the woods ."
+    },
+    {
+        "src": "eine gondel mit 6 passagieren bewegt sich durch das wasser , mit einem luxus-kreuzfahrtschiff hinter sich",
+        "tgt": "a gondola with 6 riders is moving through the waters with a luxury cruise liner behind them"
+    },
+    {
+        "src": "ein berg über einem wald",
+        "tgt": "a mountain above a forest ."
+    },
+    {
+        "src": "ein mädchen hält , während sie etwas vorführt , einen großen stock .",
+        "tgt": "a young girl is holding a large stick while performing ."
+    },
+    {
+        "src": "ein rennboot lässt beim fahren das wasser spritzen .",
+        "tgt": "a speed boat causes splashes as it moves ."
+    },
+    {
+        "src": "eine braut und ein bräutigam stehen zusammen mit einem bukett im sonnenlicht .",
+        "tgt": "a bride and groom stand together with a bouquet in the sunlight ."
+    },
+    {
+        "src": "ein fahrradfahrer fährt eine lange treppe hinunter .",
+        "tgt": "a bicycle rider is going down a long stair way ."
+    },
+    {
+        "src": "ein wasserfall vor moosbedeckten felsen .",
+        "tgt": "a waterfall against the backdrop of moss covered rocks ."
+    },
+    {
+        "src": "eine verlassene baumgesäumte landstraße mit wiesen auf beiden seiten .",
+        "tgt": "a deserted tree-lined country road with grassy fields on either side ."
+    },
+    {
+        "src": "ein frau mit einem blau-weißen flanellhemd und blauen jeans reitet auf einem kastanienbraunen pferd und versucht , es zum stehenbleiben zu bewegen .",
+        "tgt": "a woman in a blue and white flannel button down shirt and blue jeans is riding a chestnut horse and trying to make it stop ."
+    },
+    {
+        "src": "eine libelle sitzt auf einem blumenstiel neben einer margerite .",
+        "tgt": "a dragonfly resting on a flower stem next to a daisy ."
+    },
+    {
+        "src": "eine frau sitzt auf den wurzeln eines vertrockneten baums .",
+        "tgt": "a woman is sitting on the roots of a dried out tree ."
+    },
+    {
+        "src": "ein baseballspieler in blau ist bereit , den schläger zu schwingen .",
+        "tgt": "a baseball player in blue is ready to swing the bat ."
+    },
+    {
+        "src": "eine braunhaarige mit einer schwarzen lederjacke und jeans posiert neben einer straßenlampe .",
+        "tgt": "a brunette with a black leather jacket , a black shirt , and denim bottoms poses alongside a tall street lamp ."
+    },
+    {
+        "src": "violette , gelbe und weiße blumen am fuß des berges",
+        "tgt": "violet , yellow and white flowers at the foot of the mountain"
+    },
+    {
+        "src": "ein steingebäude mit einer weißen tür ist von pflanzen überwachsen .",
+        "tgt": "a stone building with a white door has vegetation growing over it ."
+    },
+    {
+        "src": "eine person beobachten den sonnenuntergang hinter einem leuchtturm .",
+        "tgt": "a person is watching the sunset behind a lighthouse ."
+    },
+    {
+        "src": "eine frau in einem weißen pullover fotografiert jemanden .",
+        "tgt": "a woman in a white sweater is taking a picture of a person ."
+    },
+    {
+        "src": "eine person , die einen schirm hält , schleppt einen minicart eine straße in der stadt entlang .",
+        "tgt": "a person holding an umbrella totes a mini cart down a city street ."
+    },
+    {
+        "src": "ein junger mann sitzt auf einer bank in der stadt und versucht , sich dadurch seinen lebensunterhalt zu verdienen , dass er für je einen dollar witze erzählt .",
+        "tgt": "a young man sits on an urban bench and tries to make a living by telling jokes for a dollar ."
+    },
+    {
+        "src": "leute essen in einem cafe an einer straße in der stadt .",
+        "tgt": "people dining at a cafe on a city street ."
+    },
+    {
+        "src": "fußballspieler stehen eng beieinander und versuchen eine schuss zu blockieren .",
+        "tgt": "soccer players are huddled together trying to block a shot ."
+    },
+    {
+        "src": "mehrere mädchen auf einem volleyballplatz nach einem spiel .",
+        "tgt": "a group of girls are on a volley ball court after a game ."
+    },
+    {
+        "src": "der motorradfahrer führt einen stunt vor , bei dem er den lenker mit den füßen hält .",
+        "tgt": "the motorcycle rider preforms a stunt holding the handlebars with his feet ."
+    },
+    {
+        "src": "zahlreiche frauen mit pelzjacken stehen vor einem gebäude .",
+        "tgt": "numerous women wearing fur coats are standing outside a building ."
+    },
+    {
+        "src": "eine gruppe schiebt ihr floss mit langen stangen den bach entlang .",
+        "tgt": "a group pushes their raft down the stream with long poles ."
+    },
+    {
+        "src": "ein mädchen trägt einen grünen kapuzenpulli mit einem monstergesicht auf der vorderseite .",
+        "tgt": "a young girl wearing a green hoodie with a monster face on the front ."
+    },
+    {
+        "src": "ein mann am telefon blickt aus dem eingangsbereich einer bar .",
+        "tgt": "a man on the phone looks out of a bar doorway ."
+    },
+    {
+        "src": "kinder in einem klassenzimmer spielen schach .",
+        "tgt": "children play chess in a classroom ."
+    },
+    {
+        "src": "ein segler versucht draußen auf dem wasser ein kleines segelboot zu wenden .",
+        "tgt": "sailor attempts to turn a small sailboat out on the water ."
+    },
+    {
+        "src": "drei personen posieren vor bäumen mit gelben blättern .",
+        "tgt": "three people pose in front of yellow leafed trees ."
+    },
+    {
+        "src": "mädchen spielen auf der straße",
+        "tgt": "girls playing in the street"
+    },
+    {
+        "src": "eine schwarze und eine rote motte sitzen auf einem blatt .",
+        "tgt": "a black and red moth is on a leaf ."
+    },
+    {
+        "src": "eine blonde und eine braunhaarige frau in gepunkteten kleidern blicken in das schaufenster eines antiquitätengeschäfts .",
+        "tgt": "a blonde and a brunette in polka dotted dresses look into the large glass windows of an antique shop ."
+    },
+    {
+        "src": "ein mann wäscht an einem tisch im freien lebensmittel mit dem schlauch ab .",
+        "tgt": "a man hoses down food items on an outside table ."
+    },
+    {
+        "src": "a großer dunkelfarbiger vogel mit riesiger flügelspannweite ist gerade in das wasser getaucht und hat einen fisch erwischt .",
+        "tgt": "a large dark colored bird with a huge wingspand has just dived into the water and gotten a fish ."
+    },
+    {
+        "src": "die sonne beleuchtet die felsformationen wie ein feuer .",
+        "tgt": "the sun illuminates the rock formations like fire ."
+    },
+    {
+        "src": "mehrere menschen in einem gelben schlauchboot navigieren über die stromschnellen eines flusses .",
+        "tgt": "a group of people in a yellow raft negotiate the rapids of a river ."
+    },
+    {
+        "src": "ein kleiner junge auf der eingangsstufe eines hauses spielt mit einem skateboard .",
+        "tgt": "a very young boy plays with a skateboard on the front step of a home ."
+    },
+    {
+        "src": "zwei frauen spielen beachvolleyball .",
+        "tgt": "two women playing beach volleyball"
+    },
+    {
+        "src": "blick durch ein konditoreifenster auf eine frau , die feingebäck isst .",
+        "tgt": "a woman seen through a patisserie shop window , enjoying a baked good ."
+    },
+    {
+        "src": "ein junge mit weißen fransen an den handgelenken hält einen kleinen , auf kunstwerk gemachten fußball .",
+        "tgt": "a young boy holding a small artsy soccer ball wearing white frills on his wrists ."
+    },
+    {
+        "src": "lächelnde leute im regen .",
+        "tgt": "people outside in the rain smiling ."
+    },
+    {
+        "src": "ein mann sitzt auf einem stuhl , während ein anderer seinen hinterkopf rasiert .",
+        "tgt": "a man sitting on a chair while another is shaving the back of his head ."
+    },
+    {
+        "src": "der verkehr stoppt , während eine frau die straße überquert , im hintergrund eine große kathedrale .",
+        "tgt": "traffic stopped as a woman crosses the street with a large cathedral in the background ."
+    },
+    {
+        "src": "eine nächtliche stadtansicht mit beleuchteten straßen .",
+        "tgt": "a nighttime city view with illuminated streets ."
+    },
+    {
+        "src": "zwei farbenfrohe heißluftballons , die durch bäume davonschweben .",
+        "tgt": "two very colorful hot air balloons are featured taking off through some trees ."
+    },
+    {
+        "src": "ein mann mit helm fährt am wasser entlang fahrrad .",
+        "tgt": "a man with a hat rides his bike along the water ."
+    },
+    {
+        "src": "tänzer auf der bühne in farbenfrohem kostüm .",
+        "tgt": "dancer on stage in colorful costume ."
+    },
+    {
+        "src": "eine frau geht eine schmale straße in der stadt entlang .",
+        "tgt": "woman walks down a narrow city street ."
+    },
+    {
+        "src": "schnauze eines schwarze hunds mit einem orangenen ball auf dem bürgersteig .",
+        "tgt": "snout of a black dog with orange ball on pavement ."
+    },
+    {
+        "src": "eine große schlucht voller vegetation .",
+        "tgt": "a large canyon that is filled with vegetation ."
+    },
+    {
+        "src": "eine frau , die mehrere schichten kleidung trägt , geht eine straße entlang .",
+        "tgt": "a woman wearing several layers of clothing walking along a street ."
+    },
+    {
+        "src": "ein rotes zelt vor einem gebirgszug unter einem sternenhimmel , der sich gerade zuzieht .",
+        "tgt": "a red tent overlooking a mountain range at night under a starry yet clouding sky ."
+    },
+    {
+        "src": "ein mann , der bei einem spiel einen fußball köpft .",
+        "tgt": "a man headbutting a soccer ball during a game ."
+    },
+    {
+        "src": "mehrere personen , die auf einem freiluftmarkt mit frischem obst und gemüse einkaufen .",
+        "tgt": "several people shopping at an outdoor market with fresh fruit and vegetables ."
+    },
+    {
+        "src": "viele fahrradfahrer fahren auf einer bergstraße .",
+        "tgt": "many cyclists are traveling on a mountain road ."
+    },
+    {
+        "src": "ein mann paddelt in einem aufblasbaren kanu .",
+        "tgt": "a man paddles an inflatable canoe ."
+    },
+    {
+        "src": "ansicht einer kirche vor verschneiten bergen",
+        "tgt": "view of church and snowy mountains in the background"
+    },
+    {
+        "src": "eine frau läuft lächelnd durch die stadt .",
+        "tgt": "a woman smiles as she walks in the city ,"
+    },
+    {
+        "src": "zwei junge mädchen sitzen auf einer stufe mit einer leuchtend blauen plane vor sich .",
+        "tgt": "two young girls sitting on a step with a clear blue tarp in front of them ."
+    },
+    {
+        "src": "eine frau geht in einem großen fabrikgeschäft einen gang entlang .",
+        "tgt": "a woman walking down an aisle in a large fabric store ."
+    },
+    {
+        "src": "drei personen posieren auf der straße , während andere vorbeigehen .",
+        "tgt": "three people are posing in the street as others are walking ."
+    },
+    {
+        "src": "zwei autos auf einem verschneiten weg , ein rennwagen ist grün , der andere silberfarben .",
+        "tgt": "two cars on a snowy track , one race car is green , the other silver ."
+    },
+    {
+        "src": "junge mit einem dunkelblauen t-shirt und braunen hosen , der mit einem grünen hula-hoop-reifen spielt .",
+        "tgt": "a young boy in a dark blue tshirt and brown pants playing with a green hoola hoop ."
+    },
+    {
+        "src": "graffiti auf einer wand , das einen rennenden roten fuchs darstellt , der sich in einen roten nebel verwandelt , sowie abstrakte uhren und szenen mit palmen .",
+        "tgt": "graffiti on a wall which depicts a red fox running and morphing into a red fog and abstract clocks and palm tree settings ."
+    },
+    {
+        "src": "weißnäherin bei der sorgfältigen ausführung ihrer arbeit .",
+        "tgt": "seamstress carefully performing her art ."
+    },
+    {
+        "src": "ein kleiner weißer malteserhund steht auf einer hundeschau auf einem tisch , während der besitzer hinter ihm sitzt .",
+        "tgt": "a small white maltese dog is standing on a grooming table at a dog show while its owner sits behind it ."
+    },
+    {
+        "src": "cheerleader turnen im zuschauerbereich des football-spiels .",
+        "tgt": "cheerleaders perform on the sidelines of the football game ."
+    },
+    {
+        "src": "eine frau isst etwas an einer theke auf der anderen seite eines fensters .",
+        "tgt": "a woman is eating at a counter on the other side of a window ."
+    },
+    {
+        "src": "eine frau sitzt auf dem sand .",
+        "tgt": "a woman sits on the sand ."
+    },
+    {
+        "src": "eine treppe mitten in einer betonwand",
+        "tgt": "a stair case in the middle of a concrete wall"
+    },
+    {
+        "src": "jemand mit einem schwarzem helm fährt ein rennen in einem gelben auto .",
+        "tgt": "someone in a black helmet is racing a yellow car ."
+    },
+    {
+        "src": "eine frau in einer weiß-schwarzen raiders-uniform beugt sich nach vorn , um einen ball zu fangen .",
+        "tgt": "a woman in a white and black raiders uniform crouches to catch a ball ."
+    },
+    {
+        "src": "zwei weiße hunde stecken die köpfe zusammen .",
+        "tgt": "two white dogs cuddle their heads together ."
+    },
+    {
+        "src": "männer wetteifern in einem hockey-spiel .",
+        "tgt": "men are competing in a hockey match ."
+    },
+    {
+        "src": "eine baumgruppe befindet sich neben einem nebligen see .",
+        "tgt": "a group of trees is set by the side of a misty lake ."
+    },
+    {
+        "src": "ein mann in einem gelbem bissfesten anzug macht mit einem polizeihund übungen auf einer wiese .",
+        "tgt": "a man in a yellow bite suit is practicing drills with a police dog on a grassy field ."
+    },
+    {
+        "src": "ein kleiner junge in dunklen hosen und einem dunklen pullover mit gelben ohrenschützern in einer menschenmenge .",
+        "tgt": "a young boy in dark pants and a dark sweater walking in a crowd with yellow noise reducing headphones on ."
+    },
+    {
+        "src": "ein mann geht den gehweg oder eine straße entlang in eine garage hinein",
+        "tgt": "a man walking down the sidewalk or roadway into a garage"
+    },
+    {
+        "src": "die bedienung nimmt die bestellung einer frau auf , die am tisch sitzt",
+        "tgt": "waiter attends to ordering woman sitting at table"
+    },
+    {
+        "src": "zwei frauen gehen auf einem gehweg und reden miteinander",
+        "tgt": "two women walking and talking on a sidewalk"
+    },
+    {
+        "src": "ein schöner wasserfall mitten im wald .",
+        "tgt": "a beautiful waterfall in the middle of a forest"
+    },
+    {
+        "src": "ein kleines mädchen isst ein stück kuchen .",
+        "tgt": "a little girl eats a slice of cake ."
+    },
+    {
+        "src": "zwei personen gehen unter einem schirm und ziehen einen einkaufswagen .",
+        "tgt": "two people walking under an umbrella while dragging a shopping basket ."
+    },
+    {
+        "src": "ein mann im anzug blickt aus einem fenster .",
+        "tgt": "a man dressed in a suit looks out a window ."
+    },
+    {
+        "src": "angeleinte welpen lernen einander kennen .",
+        "tgt": "leashed puppies get to know one another ."
+    },
+    {
+        "src": "ein alter mann mit einem weißen hemd kratzt seinen kopf , während im hintergrund zwei andere leute auf stühlen zu sehen sind .",
+        "tgt": "an old man in a white shirt scratches his head while two other people in chairs can be seen in the background ."
+    },
+    {
+        "src": "bewölkter sonnenuntergang über dem wasser .",
+        "tgt": "cloudy sunset over the water ."
+    },
+    {
+        "src": "ein kind geht durch einen verdunkelten tunnel .",
+        "tgt": "a child walks down a darkened tunnel ."
+    },
+    {
+        "src": "zwei künstler auf der bühne spielen gitarre .",
+        "tgt": "two performers on stage playing guitars ."
+    },
+    {
+        "src": "durch kiefernzweige ist ein see mit bergen im hintergrund zu sehen .",
+        "tgt": "through a frame of pine branches , there is a lake with mountains in the background ."
+    },
+    {
+        "src": "fußgänger gehen auf einer brücke über eisenbahnschienen .",
+        "tgt": "pedestrians are walking along a bridge above train tracks ."
+    },
+    {
+        "src": "ein hund am strand trägt seine leine im maul .",
+        "tgt": "a dog is carrying his leash in his mouth on a beach ."
+    },
+    {
+        "src": "eine hügelige landschaft , durch die sich eine straße schlängelt .",
+        "tgt": "a hilly region with road winding through ."
+    },
+    {
+        "src": "zwei vögel , die am maschendraht einer zylindrischen vogelfutterquelle hängen .",
+        "tgt": "two birds hanging onto wire mesh of cylindrical bird feeder ."
+    },
+    {
+        "src": "ein vater bringt seinem sohn auf einer wiese im park das fahrradfahren bei .",
+        "tgt": "a father is teaching his son how to ride a bike on a grassy area of the park ."
+    },
+    {
+        "src": "ein bmx-fahrer in blau-weißem anzug mitten im sprung auf einer geländerennstrecke .",
+        "tgt": "a bmx biker dressed in a blue and white uniform is mid-jump on a dirt race track ."
+    },
+    {
+        "src": "ein otter , der unter wasser spielt und blasen macht",
+        "tgt": "otter playing and making bubbles underwater"
+    },
+    {
+        "src": "eine hölzerne rampe steht aus dem sumpfigen wasser heraus .",
+        "tgt": "a wooden ramp stick out of the marshy water ."
+    },
+    {
+        "src": "hund mit weiß-rosa pullover",
+        "tgt": "dog with white and pink sweater"
+    },
+    {
+        "src": "ein hund mit weißem und hellbraunem fell bellt hinter einem zaun einen rasentrimmer an .",
+        "tgt": "a white and tan dog is barking behind a fence at a weed whacker ."
+    },
+    {
+        "src": "rosafarbener himmel an einem verschneiten tag mit zelten auf einer plattform .",
+        "tgt": "pink sky on a snowy day has tents on a platform ."
+    },
+    {
+        "src": "eine frau hält ihr handy und setzt ihre handtasche auf einer bank ab .",
+        "tgt": "a woman is setting her purse down on a bench while holding her phone ."
+    },
+    {
+        "src": "ein als clown angezogener junge krabbelt auf dem boden eines überfüllten raums .",
+        "tgt": "a boy dressed as a clown crawls on the floor of a crowded room ."
+    },
+    {
+        "src": "eine junge frau mit dunklen haaren , die am hals nach hinten gehalten werden , und einem dunklen oberteil hält ein weißes stück papier , auf das ein schwarzer herzumriss gemalt ist , während eine verschwommen abgebildete ältere frau im vordergrund blumen hält",
+        "tgt": "a young woman with dark hair pulled back at her neck and a dark shirt holding a white piece of paper with a black heart outline drawn on it with an older woman holding flowers in the forefront out of focus"
+    },
+    {
+        "src": "ein blaues auto mit schwarzem lenkrad",
+        "tgt": "a blue car with a black steering wheel ."
+    },
+    {
+        "src": "eisenbahnschienen führen unter einer autobahnbrücke hindurch .",
+        "tgt": "train tracks passing under a motorway bridge ."
+    },
+    {
+        "src": "mann in einer latzhose , der in den tunnel geht",
+        "tgt": "man in pantyhose walking down the tunnel"
+    },
+    {
+        "src": "eine frau sitzt draußen auf einer belebten verregneten straße im freien und hält einen schwarzen regenschirm .",
+        "tgt": "a woman sitting at a small outdoor table on a busy rainy street holding a black umbrella ."
+    },
+    {
+        "src": "ein künstler steht vor einem feuer auf der straße .",
+        "tgt": "a performer stands in front of a fire in the street ,"
+    },
+    {
+        "src": "feuerwerk auf zeitverzögerter aufnahme .",
+        "tgt": "fireworks caught on time lapsed film ."
+    },
+    {
+        "src": "ein großes orangefarbenes gebäude , auf das augen und ein lächeln gemalt sind .",
+        "tgt": "a large orange building has eyes and a smile painted onto it ."
+    },
+    {
+        "src": "der schnee auf dem hügel sieht aus wie ein wasserfall .",
+        "tgt": "the snow on the hill looks like a waterfall ."
+    },
+    {
+        "src": "vier motorradfahrer fahren auf einer rennbahn , im hintergrund eine menschenansammlung .",
+        "tgt": "four bikers are racing on a course with a crowd in the background ."
+    },
+    {
+        "src": "eine frau in einer blauen jacke kauft an einem stand auf dem pier essen .",
+        "tgt": "a woman in a blue coat buy food from a food stand on a pier ."
+    },
+    {
+        "src": "eine wand im freien trägt das gemälde einer frau mit einem rucksack , umgeben von malkreiden .",
+        "tgt": "an outside wall has a painting of a woman with a backpack surrounded by crayons ."
+    },
+    {
+        "src": "mann mit tattoo im nacken und piercing im ohr",
+        "tgt": "man with tattoo on neck and pierced ear"
+    },
+    {
+        "src": "eine frau hält eine plastiktüte vor dem kind , das sie hält , während sie einen holzweg entlanggeht .",
+        "tgt": "a woman holds a plastic bag in front of the child she is holding as she walks along a wood walkway ."
+    },
+    {
+        "src": "ein älterer mann preist einem potentiellen kunden sein gemüse an .",
+        "tgt": "an elderly man selling his vegetables to a potential customer ."
+    },
+    {
+        "src": "mädchen spielen fußball .",
+        "tgt": "girls are playing a soccer game ."
+    },
+    {
+        "src": "ein schwarzes gebäude voller fenster .",
+        "tgt": "a black building full of windows ."
+    },
+    {
+        "src": "ein männlicher radfahrer fährt auf einer leeren straße eine steigung hoch .",
+        "tgt": "a male cycler rides at an incline on a empty street ."
+    },
+    {
+        "src": "ein mann surft über eine kleine flutwelle .",
+        "tgt": "a man surfs over a small tidal wave ."
+    },
+    {
+        "src": "ein fußballspieler wird gestoßen , als er versucht , den ball mit dem kopf zurückzustoßen .",
+        "tgt": "a soccer player is pushed as he tries to rebound the ball with his head ."
+    },
+    {
+        "src": "vögel sitzen auf den höchsten ästen eines baums .",
+        "tgt": "birds perch on the highest branches of a tree ."
+    },
+    {
+        "src": "ein mann uriniert an einer straßenecke .",
+        "tgt": "a man urinating on a street corner"
+    },
+    {
+        "src": "ein mann steht oben auf einem berg , hinter ihm steigen die gipfel empor .",
+        "tgt": "a man standing on top of mountain with peaks rising behind him ."
+    },
+    {
+        "src": "eine rot gekleidete frau macht einen spagat .",
+        "tgt": "a woman in red does a split ."
+    },
+    {
+        "src": "ein gelber hund im freien mit papier im maul .",
+        "tgt": "yellow dog outside with paper in its mouth ."
+    },
+    {
+        "src": "ein baseballspieler mit blauem trikot schwingt den schläger , während der catcher hinter ihm steht , um den ball zu fangen .",
+        "tgt": "a baseball player in a blue uniform swings as the catcher stands behind him to catch the ball ."
+    },
+    {
+        "src": "silhouette zweier frauen auf dem absatz einer treppe im freien .",
+        "tgt": "two women at the stop of an outdoor staircase , in silhouette ."
+    },
+    {
+        "src": "ein tanzendes paar mit kleidern aus dem alten westen",
+        "tgt": "a couple dancing with clothes from the old west"
+    },
+    {
+        "src": "frauen mit großen hüten , kurzen hosen und bauchfreien tops treten mit mikrophonen auf .",
+        "tgt": "women dressed in large hats , short shorts , and crop tops are performing with microphones ."
+    },
+    {
+        "src": "vier männer halten eine kuh und fesseln sie .",
+        "tgt": "four men are holding down and tying up a cow ."
+    },
+    {
+        "src": "ein skateboardfahrer springt auf betonstufen .",
+        "tgt": "skate boarder jumps concrete steps ."
+    },
+    {
+        "src": "mädchen feiern bei einem volleyballspiel .",
+        "tgt": "girls are celebrating during a volleyball game ."
+    },
+    {
+        "src": "zwei männer unter einer hochstraße , durch dampf betrachtet",
+        "tgt": "two men under an overpass seen through steam ."
+    },
+    {
+        "src": "ein älterer mann steht auf einem grundstück mit verschiedenen arbeits- / baustellenfahrzeugen .",
+        "tgt": "an older man standing in a lot with various work / construction style trucks ."
+    },
+    {
+        "src": "das abbild eines kleinen hunds , der aus einem autofenster herausschaut , in einem spiegel .",
+        "tgt": "a small dog is reflected in a mirror as it looks out a car window ."
+    },
+    {
+        "src": "eine felsenlandschaft mit blauem himmel .",
+        "tgt": "a rocky landscape with a blue sky ."
+    },
+    {
+        "src": "eine frau schützt kopf und gesicht mit einer knallroten jacke .",
+        "tgt": "a women shields her head and face with a vibrant red coat ."
+    },
+    {
+        "src": "ein mädchen mit einem roten kleid und ein mann mit einem gestreiften oberteil kaufen lebensmittel bei einem händler am straßenrand .",
+        "tgt": "a girl in a red dress and a man in a striped shirt are buying food from a road side vendor ."
+    },
+    {
+        "src": "mehrere frauen springen über eine hürde und landen in einer pfütze .",
+        "tgt": "a group of women jumping over a hurdle and landing in a puddle ."
+    },
+    {
+        "src": "eine mit gelben blumen gesäumte straße , die in richtung berge führt .",
+        "tgt": "a road lined with yellow flowers and heading toward mountains ."
+    },
+    {
+        "src": "ein rot-weißer marine-hubschrauber fliegt durch den grauen himmel .",
+        "tgt": "a red and white navy helicopter is flying through the gray sky"
+    },
+    {
+        "src": "ein brauner schmetterling sitzt auf dem zweig eines baums",
+        "tgt": "brown colored butterfly standing on the branch of a tree"
+    },
+    {
+        "src": "ein gelbes rennboot , gefolgt von einem weißen",
+        "tgt": "a yellow racing boat is followed by a white one ."
+    },
+    {
+        "src": "ein hund läuft mit einem farbigen ball im maul im sand .",
+        "tgt": "a dog walking on the sand with a colorful ball in his mouth ."
+    },
+    {
+        "src": "tauben fressen in der nähe von zwei personen , die vor einem brunnen reden .",
+        "tgt": "pigeons feeding near two people talking in front of a fountain ."
+    },
+    {
+        "src": "zwei mädchen aus gegnerischen teams jagen auf einem grünen feld mit hockeyschlägern hinter einem kleinen weißen ball her .",
+        "tgt": "two girls from opposite teams actively going for a small white ball with hockey sticks on a green field ."
+    },
+    {
+        "src": "ein riesiger wolkenkratzer an einem sonnigen tag",
+        "tgt": "a huge skyscraper on a sunny day"
+    },
+    {
+        "src": "viele männer stehen herum und sehen zwei männern zu , die miteinander dame spielen .",
+        "tgt": "a crowd of men are standing around watching two men play a game of checkers ."
+    },
+    {
+        "src": "eine möve sitzt auf einer lampe .",
+        "tgt": "a seagull sitting atop a light fixture ."
+    },
+    {
+        "src": "die statue vor dem gebäude",
+        "tgt": "the statue in front of the building"
+    },
+    {
+        "src": "mehrere radfahrer radeln bei sonnenuntergang auf einer straße .",
+        "tgt": "several cyclists are riding on a road at sunset ."
+    },
+    {
+        "src": "zwei weiße frauen beobachten eine veranstaltung .",
+        "tgt": "two white women watching some event"
+    },
+    {
+        "src": "eine frau unter einer brücke schaut weg .",
+        "tgt": "a woman looks away while under a bridge ."
+    },
+    {
+        "src": "neben einem schornstein befindet sich eine stahltreppe und einfriedungen .",
+        "tgt": "steel stairs and fences are by a chimney ."
+    },
+    {
+        "src": "eine fußgänger-hängebrücke über einen bach im wald .",
+        "tgt": "a suspended walking bridge over a stream in the forest ."
+    },
+    {
+        "src": "vier hunde , auf jeder seite des zauns zwei .",
+        "tgt": "four dogs , two on each side of fence ."
+    },
+    {
+        "src": "ein mann mit dunklen haaren und einem kurzen bart , der ein rostfarbenes t-shirt trägt und an einem tisch spagetti isst",
+        "tgt": "a man with dark colored hair and a short beard wearing a rust colored tshirt is eating spaghetti at a table"
+    },
+    {
+        "src": "ein kleiner bach läuft durch den nadelwald",
+        "tgt": "small stream runs through the pine forest"
+    },
+    {
+        "src": "ein rennboot befindet sich im wasser , mit anderen booten im hintergrund .",
+        "tgt": "a speed boat is in the water with other boats in the background ."
+    },
+    {
+        "src": "eine band auf einer open-air-bühne .",
+        "tgt": "a band on an outdoor stage ."
+    },
+    {
+        "src": "eine landstraße mit hügeln und bergen",
+        "tgt": "a country road with hills and mountains ."
+    },
+    {
+        "src": "ein mann und sein weißes pferd bei einem rodeo-wettbewerb",
+        "tgt": "a man and his white horse in a rodeo competition"
+    },
+    {
+        "src": "ein kleines kind fährt auf einer kunstausstellung auf dem fliesenboden fahrrad .",
+        "tgt": "a young child riding a bike along the tiled floor of an art exhibit ."
+    },
+    {
+        "src": "zwei jets im militärstil im flug .",
+        "tgt": "two military style jets in flight ."
+    },
+    {
+        "src": "ein sturm mit großen weißen blitzen rollt über den himmel .",
+        "tgt": "a storm rolling across the sky with large streaks of white lightening ."
+    },
+    {
+        "src": "zwei motocross-fahrer auf einer rennstrecke .",
+        "tgt": "two motocross riders are racing on a track ."
+    },
+    {
+        "src": "das kleine mädchen schaukelt in der nacht .",
+        "tgt": "the little girl is swinging at night ."
+    },
+    {
+        "src": "eine junge frau rennt einen pfad herunter und bereitet sich auf einen stabhochsprung vor .",
+        "tgt": "a young woman running down the track preparing to pole vault ."
+    },
+    {
+        "src": "ein wandgemälde in leuchtenden farben auf einer wand , vor der zwei autos geparkt sind .",
+        "tgt": "a brightly painted mural on a wall with two cars parked in front ."
+    },
+    {
+        "src": "eine frau steht auf einem steinernen vorbau .",
+        "tgt": "woman stands on a masonry porch ."
+    },
+    {
+        "src": "kinder gehen auf einem gepflasterten fußweg .",
+        "tgt": "children walking on cobblestone walkway ."
+    },
+    {
+        "src": "ein mann klettert eine leiter hoch auf das dach .",
+        "tgt": "man climbs a ladder to the roof top ."
+    },
+    {
+        "src": "der surfer fällt von seinem weißen surfbrett herunter .",
+        "tgt": "the surfer falls off his white surfboard ."
+    },
+    {
+        "src": "kinder , die miteinander reden , und zwei weitere im hintergrund",
+        "tgt": "kids talking while two more rest in the background ."
+    },
+    {
+        "src": "ein bach fließt nach unten , umgeben von grünen bäumen .",
+        "tgt": "a stream flowing downwards surrounded by green trees ."
+    },
+    {
+        "src": "ein reitender jockey",
+        "tgt": "a jockey riding his horse ."
+    },
+    {
+        "src": "ein gruppe aneinandergereihter häuser entlang einer wasserstraße , die mit mehrfarbigen strahlern beleuchtet werden",
+        "tgt": "a group of row houses lit up with multicolored spot lights along a waterway"
+    },
+    {
+        "src": "eine frauengruppe tanzt auf einer bühne .",
+        "tgt": "a group of women on stage dancing ."
+    },
+    {
+        "src": "leute am strand an einem nebligen tag .",
+        "tgt": "people at the beach on a foggy day ."
+    },
+    {
+        "src": "eine frau mit hut spielt im garten mit einem band .",
+        "tgt": "a woman in a hat is playing with a ribbon in the yard ."
+    },
+    {
+        "src": "zwei männer sitzen auf einer holzbank",
+        "tgt": "two men sitting on a wooden bench"
+    },
+    {
+        "src": "hund und hundebesitzer schlafend auf dem sofa",
+        "tgt": "dog and owner asleep on the couch ."
+    },
+    {
+        "src": "auf dem waldweg liegt schnee .",
+        "tgt": "snow has fallen on the forest path ."
+    },
+    {
+        "src": "ein rotbrauner hund sitzt auf einem felsvorsprung und starrt auf eine wüstenähnliche gegend .",
+        "tgt": "a yellow dog sitting on rocky ledge staring over a desert like region ."
+    },
+    {
+        "src": "ein kleinkind fährt eine grüne rutsche herunter .",
+        "tgt": "a toddler is going down a green slide ."
+    },
+    {
+        "src": "eine fußgängerbrücke überspannt eine kluft in einer einsamen bergregion .",
+        "tgt": "pedestrian bridge spans a chasm through a lonely mountain region ."
+    },
+    {
+        "src": "eine eher ungewöhnliche skulptur auf einem abgezäunten berg",
+        "tgt": "a rather unusual sculpture overlooking a fenced mountain ."
+    },
+    {
+        "src": "zwei mädchen mit langen dunklen haaren und pullovern stehen im freien .",
+        "tgt": "two young girls with long dark hair and sweaters are standing outside"
+    },
+    {
+        "src": "beine mit rosafarbenen laufschuhen kicken einen ball .",
+        "tgt": "legs wearing pink track shoes are kicking a ball ."
+    },
+    {
+        "src": "ein mann geht eine treppe hinunter",
+        "tgt": "man is walking down stairs"
+    },
+    {
+        "src": "ein mann sichert sein fahrrad neben einer belebten städtischen straße .",
+        "tgt": "man secures his bicycle beside a busy city street ."
+    },
+    {
+        "src": "zwei personen blicken zu einem großen , stativähnlichen bauwerk an einer felsigen braunen küste mit verstreuten pfützen hoch .",
+        "tgt": "two people look up at a large tripod like structure along a rocky brown shorline filled with scattered puddles ."
+    },
+    {
+        "src": "eine marktbude , in der gemüse verkauft wird .",
+        "tgt": "a market stall selling vegetables ."
+    },
+    {
+        "src": "die reiterin reitet um das blaue fass herum .",
+        "tgt": "the horse rider steers around the blue barrel ."
+    },
+    {
+        "src": "kinder , die kleidung in verschiedenen rot- und gelbtönen tragen , tanzen mitten in der stadt .",
+        "tgt": "children wearing a variety of red and yellow dancing in the middle of town ."
+    },
+    {
+        "src": "ein mann steht vor einem fleischstand und hebt seine arme hoch .",
+        "tgt": "a man raises his arms high while standing in front of a meat stand ."
+    },
+    {
+        "src": "ein mann mit blauem oberteil nimmt mit seinem hund an einem wettkampf teil .",
+        "tgt": "a man in blue shirt competing with his dog"
+    },
+    {
+        "src": "gelblicher sonnenuntergang in der wüste",
+        "tgt": "yellowish sunset in the desert"
+    },
+    {
+        "src": "ein blau gekleidete tänzerin springt über andere tänzerinnen , die sich bücken .",
+        "tgt": "a woman dancer in blue leaps over other crouched dancers ."
+    },
+    {
+        "src": "ein hund frisst mit der schnauze in einem glas .",
+        "tgt": "a dog with its snout inside a jar eating"
+    },
+    {
+        "src": "zwei hund klettern in einem felsigen gelände .",
+        "tgt": "two dogs climbing a rocky terrain ."
+    },
+    {
+        "src": "der runner schlägt den ball zur base .",
+        "tgt": "the runner beats the ball to the base ."
+    },
+    {
+        "src": "eine kanadische fahne steht auf einem steinhügel .",
+        "tgt": "canadian flag stands above a hill of rocks ."
+    },
+    {
+        "src": "ein kind in einem gelben kapuzenpulli spielt in pfützen .",
+        "tgt": "a child in a yellow hoodie playing in puddles ."
+    },
+    {
+        "src": "ein hund sitzt neben einer bank am see im gras .",
+        "tgt": "a dog sitting in the grass next to a bench by a lake ."
+    },
+    {
+        "src": "ein bullenreiter mit rotem oberteil und brauner weste reitet bei einem rodeo einen schwarzen bullen , hinter ihm leute in den zuschauertribünen .",
+        "tgt": "a bullrider wearing a red shirt and brown vest is riding a black bull at a rodeo with people in the stands behind him ."
+    },
+    {
+        "src": "jemand hält eine brauen flasche , und in der nähe liegt ein schwarzer hund .",
+        "tgt": "a brown bottle is being held with a black dog laying by ."
+    },
+    {
+        "src": "ein schwarz-weißer vogel sitzt am rande eines kliffs .",
+        "tgt": "a black and white bird is perched on the edge of a cliff ."
+    },
+    {
+        "src": "ein mann im dunklen anzug geht an einer wand mit graffiti vorbei .",
+        "tgt": "a man wearing a dark suit is walking past a wall with graffiti ."
+    },
+    {
+        "src": "eine frau sitzt auf einer bank bei einer langen brücke .",
+        "tgt": "a woman is sitting on a bench by a long bridge ."
+    },
+    {
+        "src": "eine frau steht nachts mitten auf einem parkplatz neben einem kind .",
+        "tgt": "a woman is standing next to a child in the middle of a parking lot at night ."
+    },
+    {
+        "src": "ein mann in gelber arbeitsweste gibt auf einer startbahn mit kegeln signale .",
+        "tgt": "a man in a yellow work vest gives hand signals on a runway with cones ."
+    },
+    {
+        "src": "ein skateboardfahrer macht vor publikum auf einer großen rampe eine figur .",
+        "tgt": "a skater making a figure on a large ramp in front of the public"
+    },
+    {
+        "src": "ein mann in einem neoprenanzug beim surfen",
+        "tgt": "a man in a wet suit surfing ."
+    },
+    {
+        "src": "einer wird hochgehoben , damit er einen ball fangen kann .",
+        "tgt": "a guy is being lifted to catch a ball ."
+    },
+    {
+        "src": "eine absperrung , die eine straße sperrt .",
+        "tgt": "a barrier blocking a road ."
+    },
+    {
+        "src": "drei frauen sitzen im schneidersitz auf dem boden und werfen blumen und blätter in die luft .",
+        "tgt": "three woman are sitting cross legged on the floor while throwing flowers and leaves in the air ."
+    },
+    {
+        "src": "ein welpe beim spielen steckt im heu fest .",
+        "tgt": "puppy stuck in hay playing"
+    },
+    {
+        "src": "ein weiß-schwarzer vogel fliegt auf ein vogelhäuschen .",
+        "tgt": "a white and black bird is flying onto a bird feeder ."
+    },
+    {
+        "src": "ein blau-weiß gekleideter junge kickt gleich einen fußball .",
+        "tgt": "a boy in blue and white is about to kick a soccer ball ."
+    },
+    {
+        "src": "ein schwarz gekleidetes mädchen wird mit einer geschenkschachtel fotografiert .",
+        "tgt": "girl wearing black being photographed with gift box ."
+    },
+    {
+        "src": "biergläser sind in einer reihe aufgestellt , dahinter informationen zum jeweiligen bier .",
+        "tgt": "glasses of beer are lined in a row with the information on the types of beer behind them ."
+    },
+    {
+        "src": "zwei fußballspieler kämpfen um den ball , einer mit weiß-schwarzem trikot und einer mit rot-weißem trikot .",
+        "tgt": "two soccer players fighting for the ball , one of them with a white and black jersey and the other with a red and white jersey ."
+    },
+    {
+        "src": "ein mann mit orangefarbenem oberteil und blauen kurzen hosen steht auf einem steinigen untergrund und fotografiert .",
+        "tgt": "a man wearing an orange shirt and blue shorts is standing in a rocky field taking pictures ."
+    },
+    {
+        "src": "drei tänzerinnen in blauen kleidern tanzen nach einer choreografie .",
+        "tgt": "three female dancers in blue dresses are performing a dance routine ."
+    },
+    {
+        "src": "ein mann vor einem gebäude , der fahrrad fährt .",
+        "tgt": "a man riding a bicycle in front of a building ."
+    },
+    {
+        "src": "eine frau mit einem wollschal geht an einem wolkigen tag die straße entlang .",
+        "tgt": "a lady in a paisley shawl walks down the street on a cloudy day ."
+    },
+    {
+        "src": "ein mann ruht sich auf der bank vor einem denkmal aus beton aus .",
+        "tgt": "man rests on the bench of a concrete monument ."
+    },
+    {
+        "src": "totholz liegt am ufer eines sees .",
+        "tgt": "dead wood rests on the bank of a lake ."
+    },
+    {
+        "src": "ein kleines mädchen mit rosafarbenem oberteil und gestreiften hosen und socken liegt auf einem dunkelroten tuch .",
+        "tgt": "a little girl in pink shirt and striped pants and socks lies on a dark red cloth ."
+    },
+    {
+        "src": "frau mit kopfhörern und einem in papier gewickelten rosenstrauß",
+        "tgt": "woman with headphones and a bouquet of roses wrapped in paper"
+    },
+    {
+        "src": "schauspieler im kostüm spielen auf der bühne theater .",
+        "tgt": "actors in costume perform on stage ."
+    },
+    {
+        "src": "ein oldtimer-flugzeug steht auf einem parkplatz .",
+        "tgt": "a vintage airplane parked on parking lot ."
+    },
+    {
+        "src": "eine gruppe footballspieler auf einem feld mit einer zuschauermenge in den tribünen .",
+        "tgt": "a group of football players on field with crowd of spectators in stands ."
+    },
+    {
+        "src": "ein eichhörnchen springt bei einem baum auf dem boden .",
+        "tgt": "a squirrel is jumping on the ground by a tree ."
+    },
+    {
+        "src": "ein alleinstehendes haus steht mitten in der hügeligen landschaft .",
+        "tgt": "a lone house sits amid the hilly landscape ."
+    },
+    {
+        "src": "ein mann sitzt auf einer bank und hört mit kopfhörern seinem handy zu .",
+        "tgt": "a man is sitting on a bench and listening to his phone with headphones ."
+    },
+    {
+        "src": "ein junge tanzt vor einem gebäude .",
+        "tgt": "a young boy is dancing in front of a building ."
+    },
+    {
+        "src": "zwei männer und eine frau mit gitarren geben ein konzert .",
+        "tgt": "two men and one woman with their guitars giving a concert"
+    },
+    {
+        "src": "ein mann wirft zum angeln seine leine aus .",
+        "tgt": "a man is casting his line to fish ."
+    },
+    {
+        "src": "ein mann mit einem kürbiskopf und grüner kleidung rennt eine straße entlang .",
+        "tgt": "a man wearing a pumpkin head and green clothes running down a road ."
+    },
+    {
+        "src": "ein fußballspieler jagt dem ball nach .",
+        "tgt": "soccer player chases the ball ."
+    },
+    {
+        "src": "eine zugbrücke in der nähe der berge .",
+        "tgt": "a train bridge near the mountains ."
+    },
+    {
+        "src": "dicker nebel über ruhigem wasser",
+        "tgt": "thick mist over calm water"
+    },
+    {
+        "src": "ein großer schwarz-weiß-brauner hund , der bei einem blumenbehälter auf der veranda sitzt .",
+        "tgt": "a large black , white , and tan colored dog sitting by a flower planter on the porch ."
+    },
+    {
+        "src": "ein mit verstreuten bäumen umgebenes gewässer , während die sonne durch die dunklen wolken scheint .",
+        "tgt": "a body of water surrounded by sparse trees with the sun shining through darkened clouds ."
+    },
+    {
+        "src": "ein von bäumen umgebener see mit einem berg im hintergrund",
+        "tgt": "a lake surrounded by trees with a mountain in the background ."
+    },
+    {
+        "src": "ein hund , der sich im gebüsch versteckt",
+        "tgt": "the dog hiding in bushes"
+    },
+    {
+        "src": "mehrere menschen , die eine sanddüne herunterrutschen , während andere zusehen .",
+        "tgt": "a group of people are sliding down a sand dune while others look on ."
+    },
+    {
+        "src": "eine brücke , die über den fluss führt , und bänke .",
+        "tgt": "a bridge spans over the river and benches ."
+    },
+    {
+        "src": "ein gepflegtes altes auto , das auf einem zebrastreifen geparkt ist .",
+        "tgt": "a well-maintained old car parked on a zebra crossing ."
+    },
+    {
+        "src": "ein brett , das über einen kleinen bach führt .",
+        "tgt": "a plank across a thin creek ."
+    },
+    {
+        "src": "ein kiefer steht vor einem einzelnen berg .",
+        "tgt": "a pine tree stands in front of a lone mountain ."
+    },
+    {
+        "src": "ein kind in einer winterjacke spielt in einem alten gebäude mit einem ball .",
+        "tgt": "a child in a winter coat is playing with a ball in an old building ."
+    },
+    {
+        "src": "ein baseball-pitcher bereitet sich auf den wurf vor .",
+        "tgt": "a baseball pitcher winds up and prepares to throw ."
+    },
+    {
+        "src": "eine brücke über einen fluss mit nächtlicher beleuchtung .",
+        "tgt": "a bridge over a river is lit up at night ."
+    },
+    {
+        "src": "ein mann in den 50ern mit einem gestreiften hemd und jeans sitzt auf dem gehweg und lehnt an einer absperrungswand , wobei seine hand auf dem kopf liegt , als ob er verstimmt ist .",
+        "tgt": "an man in his 50s with a striped button down shirt and blue jeans is sitting on the sidewalk , leaning against a barrier wall with his hand resting on his head as if he is upset ."
+    },
+    {
+        "src": "ein mann schiebt sein fahrrad eine straße entlang .",
+        "tgt": "a man walking his bicycle down a street ."
+    },
+    {
+        "src": "ein hund springt hoch , um eine rosafarbene frisbeescheibe im maul zu fangen .",
+        "tgt": "a dog jumping up to catch a pink frisbee in their mouth ."
+    },
+    {
+        "src": "ein blondes mädchen schwimmt mit schwimmflügeln in einem see .",
+        "tgt": "a young blond girl wearing floaties is swimming in a lake ."
+    },
+    {
+        "src": "eine frau mit weiß-rosa zöpfen und einem grauen halstuch um das gesicht geht mit ihrem fahrrad eine treppe hinunter .",
+        "tgt": "a woman with white and pink braids and a gray bandana around her face is walking her bike down stairs ."
+    },
+    {
+        "src": "zwei frauen in winterkleidung gehen auf der straße einer stadt .",
+        "tgt": "two women in winter coats are walking down a city street ."
+    },
+    {
+        "src": "ein beleuchtetes städtisches gebäude in der dämmerung , und von autos gesäumte straßen",
+        "tgt": "a city building at dusk with ambient lights and streets lined with cars"
+    },
+    {
+        "src": "eine gruppe farbenfroh gekleideter leute auf motorrädern , die auf den beginn eines rennens warten .",
+        "tgt": "a group of colorfully dressed people on motorcycles waiting to start a race ."
+    },
+    {
+        "src": "ein mann mit dreads , der einen hut , ein blaues oberteil und karierte hosen trägt , angelt .",
+        "tgt": "a man with dreads and a hat on wearing a blue shirt and plaid shorts is fishing ."
+    },
+    {
+        "src": "ein hund sitzt nachts hinter einer leeren schaukel .",
+        "tgt": "a dog sits behind an empty swing at nighttime ."
+    },
+    {
+        "src": "eine blau-gelb gekleidete person fährt zwischen den bäumen ski .",
+        "tgt": "person in blue and yellow clothes skiing among the trees"
+    },
+    {
+        "src": "hinter einem stacheldrahtzaun befindet sich seitlich an einem gebäude über einer reihe von autos eine große werbung , auf der ein roter fuchs zu sehen ist , der mit zwei kleinen rot-weiß-dunkelgrauen vögeln rennt .",
+        "tgt": "behind a barb wired fence , there is a large ad on the side of the building above a row of cars , showing a red fox running with two small red , white , and dark grey birds ."
+    },
+    {
+        "src": "zwei mädchen mit sonnenbrillen gehen die gepflasterte straße entlang .",
+        "tgt": "two girls wearing sunglasses walk down the brick road ."
+    },
+    {
+        "src": "ein bullenreiter wird bei einem rodeo von einem bullen geworfen , die clowns versuchen zu helfen .",
+        "tgt": "a bull rider is being thrown by a bull at a rodeo as the clowns try to help ."
+    },
+    {
+        "src": "ein nasser hund mit violetter farbe im haar schüttelt sich aus .",
+        "tgt": "a wet dog with purple dye in its hair is shaking off ."
+    },
+    {
+        "src": "eine bunte ende schwimmt auf einem klaren bach .",
+        "tgt": "colorful duck swims on a clear water stream ."
+    },
+    {
+        "src": "ein kleines mädchen geht barfuß im sand .",
+        "tgt": "a little girl is walking barefoot on the sand ."
+    },
+    {
+        "src": "zwei personen klettern einen felsigen abhang hoch , im hintergrund berge .",
+        "tgt": "two people climbing up a rocky incline with mountains in the backdrop ."
+    },
+    {
+        "src": "eine gruppe von jungen spielt football .",
+        "tgt": "a group of boys are playing football ."
+    },
+    {
+        "src": "ein kleiner wasserfall über einer steilen , felsigen klippe .",
+        "tgt": "a small waterfall cascades down a steep , rocky cliff ."
+    },
+    {
+        "src": "drei erwachsene in dunklen jacken stehen vor einem schaufenster .",
+        "tgt": "three adults in dark colored jackets are standing outside of a storefront window"
+    },
+    {
+        "src": "ein mann auf inlinern springt auf einer skat-park-rampe .",
+        "tgt": "a man on roller blades is jumping on a skate park ramp ."
+    },
+    {
+        "src": "ein junger mann auf einem skateboard macht einen großen sprung von einer rampe",
+        "tgt": "a young man on a skateboard makes a big jump from a ramp"
+    },
+    {
+        "src": "die gans fliegt über das sumpfland .",
+        "tgt": "the goose is flying over the marshy land ."
+    },
+    {
+        "src": "ein mann mit hut und beigem jackett steht neben einem blumengarten .",
+        "tgt": "a man in a hat with a beige jacket stands by a flower garden ."
+    },
+    {
+        "src": "zwei paar beine stehen nahe beieinander .",
+        "tgt": "two pair of legs standing close to each other ."
+    },
+    {
+        "src": "der korridor kerzenbeleuchtete korridor verströmt eine große leere .",
+        "tgt": "the hallway has a vast emptiness lit by chandeliers ."
+    },
+    {
+        "src": "eine frau kommt aus einem geschäft mit blau umrandete türen .",
+        "tgt": "a woman is coming out of a shop with blue-bordered doors ."
+    },
+    {
+        "src": "eine frau und ein mädchen auf einem gehweg in der stadt .",
+        "tgt": "woman a girl on a city sidewalk ."
+    },
+    {
+        "src": "ein gebäude in domform mit turm und fahne auf der spitze .",
+        "tgt": "a buiding shaped in a dome with a steeple and flag on top ."
+    },
+    {
+        "src": "das weiße gebäude und seine uhr",
+        "tgt": "the white building and its clock"
+    },
+    {
+        "src": "schwarzer hund auf holzboden , der auf einem weißen t-shirt liegt .",
+        "tgt": "black dog on wood floor laying on a white shirt ."
+    },
+    {
+        "src": "ein feuerwehrauto auf seinem weg durch den verkehr auf einer autobahn",
+        "tgt": "a firetruck makes its way through traffic on a highway ."
+    },
+    {
+        "src": "ein mädchen trägt eine große schachtel .",
+        "tgt": "a young girl is carrying a large box ."
+    },
+    {
+        "src": "eine weiße bulldogge trägt eine stachelige blaue perücke und eine große schwarz umrandete brille .",
+        "tgt": "a white bulldog wearing a spikey blue wig and large black rimmed glasses"
+    },
+    {
+        "src": "eine braun gemusterte schlange wickelt sich um einen ast .",
+        "tgt": "a brown patterned snake wraps itself around a tree branch ."
+    },
+    {
+        "src": "ein braunes wandgemälde mit blauen sehr großen buchstaben",
+        "tgt": "a brown mural with blue and very large letters"
+    },
+    {
+        "src": "eine frau mit rotem oberteil tanzt , während eine frau und ein junge mit rotem oberteil zusehen .",
+        "tgt": "a woman in a red top is dancing as a woman and boy in a red shirt watch ."
+    },
+    {
+        "src": "zwei welpen liegen nebeneinander .",
+        "tgt": "two puppies laying down beside each other ."
+    },
+    {
+        "src": "seidenkleider hängen an den wänden eines straßenverkaufsstands .",
+        "tgt": "silk dresses hang on the walls of a street vendor booth ."
+    },
+    {
+        "src": "beine mit laufschuhen kicken sand hoch .",
+        "tgt": "legs with running shoes are kicking up sand ."
+    },
+    {
+        "src": "eine junge frau trägt einen regenponcho .",
+        "tgt": "a young woman wearing a rain poncho ."
+    },
+    {
+        "src": "auf die seite eines blauen rennwagens ist eine rote sechs gemalt .",
+        "tgt": "a blue race car has a number six painted on its side ."
+    },
+    {
+        "src": "eine große gruppe von menschen am strand , die paddel halten .",
+        "tgt": "a big group od people holding paddles on the beach ."
+    },
+    {
+        "src": "farbige wandgemälde auf dem parkplatz .",
+        "tgt": "colorful wall paintings at the parking lot ."
+    },
+    {
+        "src": "ein schwarzer hund steht auf zwei beinen und blickt in einen geschirrspüler .",
+        "tgt": "a black dog is standing on two legs peering in a dishwasher ."
+    },
+    {
+        "src": "kinder führen auf einer bühne eine choreografie aus .",
+        "tgt": "children doing a choreography on stage"
+    },
+    {
+        "src": "eine person , die ihre arme zwischen zwei orangenen kreisen ausstreckt und eine rosafarbene jacke falsch herum trägt , sodass das gesicht von der kapuze verdeckt wird .",
+        "tgt": "a person wearing a pink coat backwards so that the face is covered by the hood has her arms stretched between orange circles ."
+    },
+    {
+        "src": "eine gruppe von radfahrern fährt auf einer straße mit bergen im hintergrund",
+        "tgt": "a group of cyclists is riding along a road with mountains in the background"
+    },
+    {
+        "src": "ein großer felsbrocken an einer zerklüfteten küste .",
+        "tgt": "a large rock is on a rough shore line ."
+    },
+    {
+        "src": "ein affe sitzt in der nähe eines netzes auf einem ast .",
+        "tgt": "a monkey is sitting on a tree branch , near a net ."
+    },
+    {
+        "src": "zwei typen spielen nachmittags fußball .",
+        "tgt": "two guys playing football in the afternoon"
+    },
+    {
+        "src": "feuerwerk , das mitten auf einem see die nacht erhellt",
+        "tgt": "fireworks that light up the night in the middle of a lake"
+    },
+    {
+        "src": "fünf männer im college-alter mit schneetauglicher kleidung teilen sich einen schlauch-schlitten .",
+        "tgt": "five college aged men in snow gear are sharing an inner tube sled ."
+    },
+    {
+        "src": "kleiner wasserfall , umgeben von felsen",
+        "tgt": "small waterfall surrounded by rocks ."
+    },
+    {
+        "src": "ein welpe mit einem roten pullover ist im freien unterwegs .",
+        "tgt": "a puppy wearing a red sweater is walking outside ."
+    },
+    {
+        "src": "eine sehr belebte straße mit vielen menschen , die dort arbeiten oder aus metall gefertigte gegenstände verkaufen .",
+        "tgt": "a very busy street features many people working on or selling things made of metal ."
+    },
+    {
+        "src": "jemand fotografiert ein blondes mädchen .",
+        "tgt": "someone is taking a picture of a young blonde girl ."
+    },
+    {
+        "src": "ein altes weißes auto ist auf der wiese geparkt .",
+        "tgt": "an old white car is parked on the grass ."
+    },
+    {
+        "src": "ein mann und zwei frauen im freien mit einem conestoga-artigen wagen .",
+        "tgt": "a man and two women outdoors with a conestoga type wagon ."
+    },
+    {
+        "src": "mädchen winken mit violetten fahnen und stolzieren die straße entlang .",
+        "tgt": "girls wave purple flags as they parade down the street ."
+    },
+    {
+        "src": "ein brauner greyhound wird von einem weißen hund verfolgt .",
+        "tgt": "a brown greyhound dog is being chased by a white dog ."
+    },
+    {
+        "src": "ein mann pumpt einen riesigen schlauch auf .",
+        "tgt": "a man is inflating a huge tube ."
+    },
+    {
+        "src": "ein kleines pier mit blick auf das meer und ein paar berge am horizont",
+        "tgt": "a small pier showing the sea and some mountains at the end of the landscape"
+    },
+    {
+        "src": "ein kleiner hund , der eine große schachtel im maul trägt .",
+        "tgt": "a small dog carrying a large box in its mouth ."
+    },
+    {
+        "src": "eine holzhütte mit landwirtschaftlichen geräten und bäume darum herum",
+        "tgt": "a wood cabin with farm equipment has trees around it ."
+    },
+    {
+        "src": "eine fähre auf einem wasserweg vor hochhäusern",
+        "tgt": "a ferry boat on a waterway in front of high rise buildings ."
+    },
+    {
+        "src": "ein hase sitzt neben einem zaun auf schneebedecktem gras .",
+        "tgt": "a rabbit sitting near a fence on snow covered grass ."
+    },
+    {
+        "src": "drei personen beobachten kinder , die neben einer bühne spielen",
+        "tgt": "three people watch children playing next to a stage"
+    },
+    {
+        "src": "ein graues eichhörnchen klettert an der rinde eines baums herunter .",
+        "tgt": "a grey squirrel climbs down the bark of a tree ."
+    },
+    {
+        "src": "eine menschengruppe wartet am bordstein einer straße in der stadt .",
+        "tgt": "a group of people wait along the curb of a city street ."
+    },
+    {
+        "src": "ackerfrucht , grün , mit haus im nebel in der ferne .",
+        "tgt": "farm crops , green , with fog surrounded house in far distance ."
+    },
+    {
+        "src": "eine frau in einem pelzmantel geht im freien .",
+        "tgt": "a woman in a fur coat is walking outside ."
+    },
+    {
+        "src": "ein älterer mann geht mit einem gehstock auf dem kopfsteinpflasterweg .",
+        "tgt": "older man walking with cane on cobblestone walkway ."
+    },
+    {
+        "src": "kinder spielen auf einer wiese .",
+        "tgt": "children are playing on a grassy field ."
+    },
+    {
+        "src": "ein grauer gebirgszug mit verschneiten bergspitzen und einem stürmischen wolkenhimmel und hohem gras im vordergrund .",
+        "tgt": "a gray mountain range with snowy peaks against a stormy cloud backdrop and tall grass in the front ."
+    },
+    {
+        "src": "kleiner feldweg durch verwilderte büsche und bäume .",
+        "tgt": "small dirt path through overgrown shrubs and trees ."
+    },
+    {
+        "src": "ein kleines mädchen in einem hellblauen kleid auf einem unbefestigten weg .",
+        "tgt": "a little girl in a light blue dress is on a dirt road ."
+    },
+    {
+        "src": "junge männer , die fußball spielen",
+        "tgt": "young men playing soccer ."
+    },
+    {
+        "src": "eine ente im wasser unter einem ast mit herbstlaub .",
+        "tgt": "a duck in the water under a limb with fall leaves ."
+    },
+    {
+        "src": "graffiti einer cartoon-raumfahrtszene unter einer brückenunterführung .",
+        "tgt": "graffiti of cartoon space scene on bridge underpass ."
+    },
+    {
+        "src": "zwei personen sehen in einem torbogen und blicken nach draußen .",
+        "tgt": "two people standing overlooking view in a doorway ."
+    },
+    {
+        "src": "ein mann mit baskenmütze geht die straße entlang .",
+        "tgt": "a man in a beret walking down the street ."
+    },
+    {
+        "src": "ein schwarz gekleidetes mädchen sitzt auf einer bank .",
+        "tgt": "a girl in black is sitting on a bench ."
+    },
+    {
+        "src": "verschneiter pfad im wald mit reifenspuren .",
+        "tgt": "snowy path with tire tracks in woods ."
+    },
+    {
+        "src": "ein mann trägt make-up auf seine augenbrauen auf .",
+        "tgt": "a man applies make-up to his eyebrows ."
+    },
+    {
+        "src": "drei schöne mädchen spielen volleyball .",
+        "tgt": "three beautiful girls playing volleyball"
+    },
+    {
+        "src": "ein haus auf den klippen am meer .",
+        "tgt": "a house on the cliffs by the ocean ."
+    },
+    {
+        "src": "ein mann geht vorbei , während ein polizist etwas liest .",
+        "tgt": "an officer is reading something as a man walks by ."
+    },
+    {
+        "src": "ein mann blickt aus einer offenen tür heraus .",
+        "tgt": "a man looks out of a open doorway ."
+    },
+    {
+        "src": "ein kleiner gecko sitzt auf einem baumstamm .",
+        "tgt": "a small gecko is sitting on a log ."
+    },
+    {
+        "src": "das reh befindet sich auf dem kieselsteinhügel .",
+        "tgt": "the deer is on the pebble stone hill ."
+    },
+    {
+        "src": "ein mann fällt vom surfbrett .",
+        "tgt": "a man falling off his surfboard"
+    },
+    {
+        "src": "frauen tanzen auf einer bühne .",
+        "tgt": "ladies performing a dance on stage ."
+    },
+    {
+        "src": "zwei personen sitzen an getrennten tischen im freien , umgeben von graffitibedeckten wänden .",
+        "tgt": "two people sitting at separate outdoor tables surrounded by graffiti covered walls ."
+    },
+    {
+        "src": "eine junge frau in einem weißen kleid und rosafarbenen schal tanzt auf einem felsen .",
+        "tgt": "a young woman in a white dress and pink scarf dances on a rock ."
+    },
+    {
+        "src": "ein see spiegelt verschneite berge .",
+        "tgt": "a lake is showing the reflection of snowy mountains ."
+    },
+    {
+        "src": "vier rote granatäpfel hängen an einem baum .",
+        "tgt": "four red pomegranates hang from a tree ."
+    },
+    {
+        "src": "kleine helle grabsteine , umgeben von hohen konischen bäumen .",
+        "tgt": "small , light colored tombstonesare surrounded by tall conic trees ."
+    },
+    {
+        "src": "roter sportwagen auf der rennstrecke .",
+        "tgt": "red sports car out on the course ."
+    },
+    {
+        "src": "eine mutter fotografiert ihr kind vor einem klauenautomaten .",
+        "tgt": "a mother photographing her child in front of a claw machine ."
+    },
+    {
+        "src": "ein hund mit einer orangefarbenen frisbeescheibe springt über einen auf dem boden liegenden mann .",
+        "tgt": "a dog with an orange frisbee is jumping over a man laying on the ground ."
+    },
+    {
+        "src": "ein schwarz-weißer hund läuft mit einer violetten frisbeescheibe im maul .",
+        "tgt": "a black and white dog walking with a purple frisbee in its mouth ."
+    },
+    {
+        "src": "eine frau mit langen haaren blickt auf etwas in der nähe einer bühne .",
+        "tgt": "a woman with long hair is looking at something near a stage ."
+    },
+    {
+        "src": "ein großer wasserfall über eine klippe mit bäumen in der dämmerung",
+        "tgt": "a large waterfall over a cliff with trees at dusk"
+    },
+    {
+        "src": "junge menschen in einer parade mit einem auto als verkleidung",
+        "tgt": "young people in a parade with a car as a disguise"
+    },
+    {
+        "src": "ein junge fährt in der nähe von einem schwimmbad skateboard .",
+        "tgt": "a boy riding a skateboard near a swimming pool"
+    },
+    {
+        "src": "abgestorbene bäume liegen über einem rauschenden bach .",
+        "tgt": "dead trees lay above a rushing stream ."
+    },
+    {
+        "src": "eine kirche im spanischen stil mit gewölbtem ziegeldach und einem weißen kreuz auf der spitze",
+        "tgt": "a spanish style church with domed cobbled brick roofing and white cross on top ."
+    },
+    {
+        "src": "mehrere personen auf einem markt , die sachen verkaufen",
+        "tgt": "several people in a market selling things"
+    },
+    {
+        "src": "eine große , schäumende welle mit einer person , die auf einem surfbrett sitzt",
+        "tgt": "a large churning wave with a person sitting on a surfboard ."
+    },
+    {
+        "src": "ein mann beobachtet vier wehrlose katzen .",
+        "tgt": "a man watches four defenseless cats ."
+    },
+    {
+        "src": "jemand surft auf dem meer .",
+        "tgt": "someone is windsurfing in the ocean ."
+    },
+    {
+        "src": "ein torhüter versucht , den ball aufzuhalten , während das gegnerische team versucht , ein tor zu schießen .",
+        "tgt": "goalie tries to stop the ball as the other team tries to score ."
+    },
+    {
+        "src": "ein mann in einem korridor geht an einer glastür vorbei .",
+        "tgt": "a man in a hallway walks pass a glass door ."
+    },
+    {
+        "src": "ein mann blickt auf zeitschriften an einem stand .",
+        "tgt": "a man looks at magazines at a stand ."
+    },
+    {
+        "src": "ein mädchen steht neben einem jungen , der eine kamera hält .",
+        "tgt": "girl standing next to boy holding a camera ."
+    },
+    {
+        "src": "see mit bäumen in herbstfarben und grasbewachsenem ufer .",
+        "tgt": "lake with autumn colored trees and grasslined shore ."
+    },
+    {
+        "src": "pferde grasen auf einer weide .",
+        "tgt": "horses graze in a pasture ."
+    },
+    {
+        "src": "rote eisenbrücke über einen flachen fluss",
+        "tgt": "red iron bridge over shallow river"
+    },
+    {
+        "src": "straßenschild auf einem mast",
+        "tgt": "a street sign is on a pole ."
+    },
+    {
+        "src": "ein mädchen , das während eines spiels einen basketball wirft .",
+        "tgt": "a girl shooting a basketball during a game ."
+    },
+    {
+        "src": "mädchen spielen in pappkartons .",
+        "tgt": "girls playing inside cardboard boxes"
+    },
+    {
+        "src": "zwei motorräder fahren auf einer straße dem fluss entlang .",
+        "tgt": "two motorcycles drive on a road along the river ."
+    },
+    {
+        "src": "ein vogel sitzt auf einem zweig und blickt in die kamera .",
+        "tgt": "a bird is sitting on a branch , staring at the camera ."
+    },
+    {
+        "src": "ein passagierboot mit blauen stühlen davor",
+        "tgt": "a boat cab with blue chairs before it ."
+    },
+    {
+        "src": "das ist eine kirche auf einem platz .",
+        "tgt": "this is a church on a plaza ."
+    },
+    {
+        "src": "eine tasse tee und ein teller mit einem winzigen muffin auf einem buch .",
+        "tgt": "a cup of tea and a plate with a tiny cupcake are on top of a book ."
+    },
+    {
+        "src": "die untere hälfte eines hunds , der in einem pool schwimmt .",
+        "tgt": "bottom half of dog swimming in pool ."
+    },
+    {
+        "src": "zwei fußballspieler verfolgen den ball .",
+        "tgt": "two male soccer players are chasing the ball ."
+    },
+    {
+        "src": "eine frau bereitet sich auf einen softballwurf vor .",
+        "tgt": "a woman is winding up to throw a softball ."
+    },
+    {
+        "src": "spieler auf dem baseballfeld mit menschenmengen in den tribünen hinter ihnen .",
+        "tgt": "players on the baseball field with crowds in the stands behind them ."
+    },
+    {
+        "src": "ein schwarzer hund mit blau-weißem flanell .",
+        "tgt": "a black dog with blue and white flannel"
+    },
+    {
+        "src": "eine plastiktasse mit kaffee auf einem leeren tisch an einem leeren ort",
+        "tgt": "a plastic cup of coffee on a empty table in an empty place"
+    },
+    {
+        "src": "ein mädchen sitzt mit stift und papier auf einem ziegelboden .",
+        "tgt": "a young girl sitting on brick ground with a pencil and paper ."
+    },
+    {
+        "src": "ein friedlicher bergsee im winter , umgeben von nadelbäumen .",
+        "tgt": "a serene mountain lake surrounded by evergreen trees , in winter ."
+    },
+    {
+        "src": "ein mädchen beim weitsprung , mitten im sprung .",
+        "tgt": "the girl is is mid jump at her competition for long jump ."
+    },
+    {
+        "src": "ein landschaftsaufnahme von einem in herbstliche farben gehülltem berg an einem leicht bewölkten tag .",
+        "tgt": "a scenic picture of a mountain covered in autumn colors on a partly cloudy day ."
+    },
+    {
+        "src": "hund mit rotem band um den hals spielt mit karton",
+        "tgt": "dog with red ribbon on neck plays with cardboard box"
+    },
+    {
+        "src": "drei personen sitzen im freien und trinken wein .",
+        "tgt": "three people sit at an outdoor table drinking wine ."
+    },
+    {
+        "src": "eine gruppe brauner gebäude entlang einer wasserstraße",
+        "tgt": "a group of brown buildings lining a water road way"
+    },
+    {
+        "src": "ein junge springt ins meer .",
+        "tgt": "a young boy is jumping into the ocean ."
+    },
+    {
+        "src": "eine person spielt in einem rauchigen bereich gitarre .",
+        "tgt": "a person playing guitar in a smoky area ."
+    },
+    {
+        "src": "der gehweg , der den strand entlangführt , ist leer .",
+        "tgt": "the walking path along the beach is empty ."
+    },
+    {
+        "src": "ein junge mit überkreuzten armen und rechteckiger sonnenbrille steht vor einem kamin .",
+        "tgt": "a boy with his arms crossed wears square sunglasses standing in front of a fireplace ."
+    },
+    {
+        "src": "ein zurückgelassener einkaufswagen mitten auf einer straße mit fahrzeugen",
+        "tgt": "an abandoned supermarket cart in the middle of a road with vehicles"
+    },
+    {
+        "src": "zwei personen tanzen im nassen sand .",
+        "tgt": "two people dance on the wet sand ."
+    },
+    {
+        "src": "boote , die nachts am pier festgemacht sind",
+        "tgt": "boats docked at the pier at night"
+    },
+    {
+        "src": "eine radfahrergruppe fährt auf einer von großen felsen umgebenen straße .",
+        "tgt": "a group of bicyclists travel on a road surrounded by large rocks ."
+    },
+    {
+        "src": "ein mann fotografiert einen großen spiegel mit seinem spiegelbild .",
+        "tgt": "a man is taking a picture of a large mirror with his reflection in it ."
+    },
+    {
+        "src": "ein hund schwimmt im wasser .",
+        "tgt": "dog going for a swim in the water"
+    },
+    {
+        "src": "zwei frauen sitzen auf einer bank vor einem cafe , eine hält ein gerät hoch .",
+        "tgt": "two women sit on a bench in front of a cafe , while one holds up a device ."
+    },
+    {
+        "src": "ein mädchen in einem weiß-grau-roten matrosenanzug salutiert .",
+        "tgt": "a girl in a white , grey and red sailor suit gives a salute ."
+    },
+    {
+        "src": "ein mann in kolonialkleidung fährt einen pferdewagen .",
+        "tgt": "a man in colonial dress driving a horse drawn carriage ."
+    },
+    {
+        "src": "weiße pfade und nadelbäume mit häusern auf beiden seiten",
+        "tgt": "white paths and pine trees with houses to the sides"
+    },
+    {
+        "src": "ein junge , der bei einem kunststück mit seinem roller eine halfpipe in der luft macht und dabei den roller wendet .",
+        "tgt": "a boy riding his scooter up a half pipe in the air while flipping his scooter for a trick ."
+    },
+    {
+        "src": "ein reh rennt mitten im wald .",
+        "tgt": "a deer running in the middle of the forest"
+    },
+    {
+        "src": "das ist eine lächelnde frau mit sonnenbrille und hasenohren .",
+        "tgt": "this is a woman smiling wearing sunglasses and rabbit ears ."
+    },
+    {
+        "src": "das ende eines alten eisenbahngleises",
+        "tgt": "the end of an old railroad track ."
+    },
+    {
+        "src": "eine frau mit zöpfen im haar , die in die ferne blickt",
+        "tgt": "a woman with braids in her hair watching in the distance"
+    },
+    {
+        "src": "ein mädchen in einem rot karierten kostüm marschiert in einer parade .",
+        "tgt": "a young girl in a red checkered costume marching in a parade ."
+    },
+    {
+        "src": "ein mann arbeitet an einer töpferscheibe , um ihn herum trocknen seine arbeiten .",
+        "tgt": "a man works on a pottery wheel , with his work drying all around him ."
+    },
+    {
+        "src": "ein kleiner hund steht auf den hinterbeinen im gras , hinter ihm bäume .",
+        "tgt": "a small dog is standing on his back legs in the grass with trees behind him ."
+    },
+    {
+        "src": "gute sicht über eine rötliche wüstenschlucht mit grünem boden mit grünen bäumen , dunkler himmel im hintergrund .",
+        "tgt": "clear view of a reddish desert canyon , with a green canyon floor with green trees , dark sky background ."
+    },
+    {
+        "src": "eine pagode im hintergrund mit einem kleinen asiatisch aussehenden kind im vordergrund .",
+        "tgt": "a pagoda in the background with a small asian-looking child in the front ."
+    },
+    {
+        "src": "ein junger mann macht eine kunststück auf dem skateboard .",
+        "tgt": "a young man performing a trick on his skateboard ."
+    },
+    {
+        "src": "ein blaues auto auf der straße inmitten einer gegend mit viel schnee",
+        "tgt": "a blue car on the road in the middle of a place with lots of snow"
+    },
+    {
+        "src": "statue eines babys , das die sicherheitsausrüstung eines bauarbeiters trägt .",
+        "tgt": "statue of a baby with construction safety gear on it ."
+    },
+    {
+        "src": "ein wanderweg mit langem geländer",
+        "tgt": "a hiking trail with a log railing ."
+    },
+    {
+        "src": "schöne landschaft aus wald , bergen und see",
+        "tgt": "beautiful landscape composed of forest mountains and lake"
+    },
+    {
+        "src": "das ist eine szene auf einem gewässer mit booten im hintergrund , umgeben von bäumen .",
+        "tgt": "this is a scene of a body of water with boats in the background surrounded by trees ."
+    },
+    {
+        "src": "eine holzbrücke über einen wasserfall im wald .",
+        "tgt": "a wooden bridge over a waterfall in the forest"
+    },
+    {
+        "src": "eine frau trainiert ihren hund",
+        "tgt": "a woman is training her dog"
+    },
+    {
+        "src": "ein monster truck fliegt auf dem rücken über einem erdhügel .",
+        "tgt": "a monster truck flies upside down over a mound of dirt ."
+    },
+    {
+        "src": "wolken hängen zwischen felsigen bergen .",
+        "tgt": "clouds lie between rocky mountains ."
+    },
+    {
+        "src": "eine frau mit schwarzen boots und einem weißen kleid rennt über eine brücke .",
+        "tgt": "a woman in black boots and a white dress is running across a bridge ."
+    },
+    {
+        "src": "ein hundeschlitten im schnee und ein schwarz gekleideter mann",
+        "tgt": "dog sled in snow and man dressed in black"
+    },
+    {
+        "src": "zwei männer bei einem wettkampf ringen miteinander .",
+        "tgt": "two men wrestle in a competition ."
+    },
+    {
+        "src": "die ruinen des kolosseums in rom bei tageslicht",
+        "tgt": "ruins of the roman coliseum by day"
+    },
+    {
+        "src": "ein geysir spuckt , und eine menschenmenge sieht zu .",
+        "tgt": "geyser blows while crowd watches"
+    },
+    {
+        "src": "ein verschneiter berg mit einem einzelnen skifahrer , der herunterfährt .",
+        "tgt": "a snowy mountain with a lone skier going down the hill ."
+    },
+    {
+        "src": "ein segelboot segelt bei sonnenuntergang auf dem meer .",
+        "tgt": "a sailboat sailing on the ocean at sunset ."
+    },
+    {
+        "src": "eine frau hängt vom ast eines baumes bei einem see .",
+        "tgt": "a woman hangs from a tree branch by a lake ."
+    },
+    {
+        "src": "ein mann auf einer brücke angelt .",
+        "tgt": "a man on a bridge fishing with a fishing rod"
+    },
+    {
+        "src": "viele menschen in einem park mit vielen blumen",
+        "tgt": "many people in a park with many flowers"
+    },
+    {
+        "src": "ein weißes haus , das mit vielen pflanzen geschmückt ist",
+        "tgt": "a white house adorned with many plants"
+    },
+    {
+        "src": "ein garten mit blumen mit einem alten steingebäude und einer alten steinkirche im hintergrund",
+        "tgt": "a garden with flowers with a stone building and old stone church in the background ."
+    },
+    {
+        "src": "eine brücke über den fluss führt zum haus .",
+        "tgt": "a bridge across the river leads to the house ."
+    },
+    {
+        "src": "ein mann spielt auf einem konzert gitarre .",
+        "tgt": "a man playing the guitar at a concert"
+    },
+    {
+        "src": "eine ältere frau in schwarzem mantel und mit kopfbedeckung",
+        "tgt": "an older woman in a black coat and hat"
+    },
+    {
+        "src": "leute fischen an einem pier .",
+        "tgt": "people fishing off a pier ."
+    },
+    {
+        "src": "ein alter mann mit brille und jackett sitzt auf einem platz .",
+        "tgt": "an older man in a coat and glasses sitting in a plaza"
+    },
+    {
+        "src": "baum und schneebedeckter gebirgszug",
+        "tgt": "tree and mountain range covered by snow"
+    },
+    {
+        "src": "nebel rollt am morgen über die berge .",
+        "tgt": "fog rolling over the mountains in the morning ."
+    },
+    {
+        "src": "ein hubschrauber fliegt über den see .",
+        "tgt": "helicopter flying over the lake"
+    },
+    {
+        "src": "eine verschneite hügellandschaft mit einer einsamen windmühle darauf .",
+        "tgt": "a snowy , hilly landscape , with a lone windmill on it ."
+    },
+    {
+        "src": "ein weißer rennwagen fährt auf einer strecke mit orangefarbenen kegeln .",
+        "tgt": "a white race car driving on a track with orange cones ."
+    },
+    {
+        "src": "ein gewässer ist von nadelbäumen und bergen umgeben .",
+        "tgt": "a body of water is surrounded by pine trees and mountains ."
+    },
+    {
+        "src": "ein schneebedeckter berg aus der ferne gesehen",
+        "tgt": "a snow-covered mountain viewed from afar"
+    },
+    {
+        "src": "eine person , die auf der straße schläft .",
+        "tgt": "a person sleeping on the street"
+    },
+    {
+        "src": "ein lächelnder orange gekleideter junge zeigt auf seine grübchen .",
+        "tgt": "a smiling young boy in orange pointing out his dimples ."
+    },
+    {
+        "src": "zwei mädchen umarmen sich .",
+        "tgt": "two girls are having a hug ."
+    },
+    {
+        "src": "ein mann mit flossen rennt vor einer hereinbrechenden welle davon .",
+        "tgt": "a man in flippers is running from a crashing wave ."
+    },
+    {
+        "src": "feuerwehrleute löschen ein feuer .",
+        "tgt": "firefighters putting out a fire"
+    },
+    {
+        "src": "ein weiß-schwarz-gefiederter vogel fliegt über ein feuchtgebiet .",
+        "tgt": "a white and black feathered bird flies over a marsh ."
+    },
+    {
+        "src": "eine gruppe sitzt unter einem pavillondach .",
+        "tgt": "a group of people sit under a pavilion roof ."
+    },
+    {
+        "src": "zwei fahrräder sind auf einem am sandstrand entlang führenden fußweg an einem pfosten abgestellt , palmen , klares blaues wasser und klarer blauer himmel sind zu sehen .",
+        "tgt": "2 bicycles parked by a post on a walkway along the sandy beach , with palm trees , clear blue waters and a clear blue sky ."
+    },
+    {
+        "src": "zwei boote fahren an der küste entlang .",
+        "tgt": "two boats going along the shoreline ."
+    },
+    {
+        "src": "ein mann am parkeingang , der putzt",
+        "tgt": "man at the park entrance cleaning"
+    },
+    {
+        "src": "eine burg mit fahnen auf dem dach",
+        "tgt": "castle with flags on the roof"
+    },
+    {
+        "src": "eine gruppe junger menschen , die sich für halloween verkleidet haben",
+        "tgt": "a group of young people dressed up for halloween ."
+    },
+    {
+        "src": "ein riesiger blitz schlägt in ein gebäude in der stadt ein .",
+        "tgt": "a massive lighting bolt strikes a building in the city ."
+    },
+    {
+        "src": "ein mädchen am pier zieht eine grimasse .",
+        "tgt": "girl making faces on pier"
+    },
+    {
+        "src": "ein baseballspieler wirft den ball zum schlagmann .",
+        "tgt": "a baseball player throwing the ball to the batter"
+    },
+    {
+        "src": "statue eines mannes , der ein pferd reitet , im einem park",
+        "tgt": "a statue of a man riding a horse is in a park ."
+    },
+    {
+        "src": "ein kleines mädchen mit weißem oberteil blickt durch ein loch in einer wand .",
+        "tgt": "a little girl in a white shirt is looking through a hole in a wall ."
+    },
+    {
+        "src": "blick auf einen leuchtturm auf einer klippe am meer .",
+        "tgt": "view of a lighthouse on a cliff by the ocean ."
+    },
+    {
+        "src": "ein junge mit bemaltem gesicht rennt mit einem stock in der hand .",
+        "tgt": "a boy with a painted face running with a stick in his hand"
+    },
+    {
+        "src": "ein mädchen , das eine blaue schwimmbrille trägt .",
+        "tgt": "a young girl wearing blue goggles ."
+    },
+    {
+        "src": "mehrere personen , die u-bahn fahren",
+        "tgt": "a group of people riding in a subway car ."
+    },
+    {
+        "src": "ein schmetterling auf einer violetten blume",
+        "tgt": "a butterfly perched on a purple flower"
+    },
+    {
+        "src": "eine pumpe auf dem rücksitz eines auf der straße geparkten fahrzeugs",
+        "tgt": "a doll in the back seat of a vehicle parked on the street"
+    },
+    {
+        "src": "ein junge reparierte etwas mit einem bohrer , ein mädchen halt es fest .",
+        "tgt": "a young boy is using a drill to fix something while the girl holds it steady ."
+    },
+    {
+        "src": "felsformation in der nähe eines baums im wald",
+        "tgt": "rock formation near a tree in the woods"
+    },
+    {
+        "src": "ein kleiner wasserfall mitten im wald",
+        "tgt": "a small waterfall in the middle of a forest"
+    },
+    {
+        "src": "ein motocross-fahrer , der durch den wald fährt .",
+        "tgt": "a motocross rider riding through the forest ."
+    },
+    {
+        "src": "ausgetrockneter baum mit vielen langen wurzeln",
+        "tgt": "dry tree with many long roots"
+    },
+    {
+        "src": "eine gruppe von düsenjägern der u.s. navy fliegt in formation .",
+        "tgt": "a group of u.s. navy jets fly in formation ."
+    },
+    {
+        "src": "performancekünstler vor einer menschenmenge",
+        "tgt": "performance artist in front of a crowd"
+    },
+    {
+        "src": "mehrere personen tanzen auf der straße .",
+        "tgt": "a group of people dancing in the street ."
+    },
+    {
+        "src": "zwei junge männer ringen miteinander",
+        "tgt": "two young men wrestling competitively"
+    },
+    {
+        "src": "ein mädchen in einem roten kleid erntet in einem garten kartoffeln .",
+        "tgt": "a girl in a red dress is picking potatoes in a garden ."
+    },
+    {
+        "src": "ein läufer kniet auf einem knie und lässt einen schwarzen hund an seiner hand schnüffeln .",
+        "tgt": "a runner kneels on one knee as he lets a black dog sniff his hand ."
+    },
+    {
+        "src": "ein fußballspieler rennt , um seinen trainer zu umarmen",
+        "tgt": "a soccer player running to hug his coach"
+    },
+    {
+        "src": "eine person macht in einem fotoautomaten fotos .",
+        "tgt": "a person taking photos in an instant photo booth ."
+    },
+    {
+        "src": "drei als frauen angezogene männer",
+        "tgt": "three men dressed as women"
+    },
+    {
+        "src": "zwei baseballspieler , die auf dem platz miteinander sprechen",
+        "tgt": "two baseball players talking on the field"
+    },
+    {
+        "src": "eine gruppe von arbeitern bei der pause",
+        "tgt": "group of workers talking on their break"
+    },
+    {
+        "src": "ein mann mit inlinern fährt slalom um mini-kegel .",
+        "tgt": "a man darting in and out of mini cones while on roller blades ."
+    },
+    {
+        "src": "zwei personen gehen eine straße entlang , hinter ihnen eine mit graffiti bemalte wand .",
+        "tgt": "two people walking down a street with a graffiti painted wall behind them ."
+    },
+    {
+        "src": "zwei personen steigen im schnee einen berg hoch .",
+        "tgt": "two people climb a mountain in the snow ."
+    },
+    {
+        "src": "eine wiese mit gelben blumen und ein tiefblauer himmel",
+        "tgt": "a meadow of yellow flowers with a deep blue sky ."
+    },
+    {
+        "src": "ein als abraham lincoln gekleideter mann , der im wagen einer parade mitfährt .",
+        "tgt": "a man dress as abraham lincoln and riding in a truck during a parade ."
+    },
+    {
+        "src": "großes gebäude mit vielen fenstern und einer jesusstatue auf dem dach",
+        "tgt": "large building with many windows and the statue of jesus at its top"
+    },
+    {
+        "src": "drei kinder in einem museum , die ein buch lesen und auf einer bank sitzen , und eine person , die zusieht",
+        "tgt": "3 children reading a book , sitting on a bench in a museum , while another person looks on ,"
+    },
+    {
+        "src": "kleines mädchen , das durch eine dunkle linse blickt",
+        "tgt": "little girl looking through a dark lense"
+    },
+    {
+        "src": "ein schwarzer hund schwimmt im pool einem ball nach .",
+        "tgt": "a black dog swimming in a pool going after a ball ."
+    },
+    {
+        "src": "ein schmaler , von bäumen umgebener pfad mit bergen im hintergrund",
+        "tgt": "a narrow path surrounded by trees and mountains in the background"
+    },
+    {
+        "src": "ein springender motocross-fahrer in einem wald",
+        "tgt": "a motocross driver jumping in a forest"
+    },
+    {
+        "src": "ein kind tanzt , andere schauen zu",
+        "tgt": "a child dancing while others observe"
+    },
+    {
+        "src": "ein kleiner junge in einem roten ärmellosen oberteil hält einem jüngeren jungen in einem roten langärmeligen oberteil mit der hand den mund zu .",
+        "tgt": "a small boy in a red sleeveless shirt covering the mouth of a younger boy in a red long sleeve shirt with his hand ."
+    },
+    {
+        "src": "ein weißer hund steht neben ein paar abgesägten baumstämmen .",
+        "tgt": "a white dog standing next to some cut trunks"
+    },
+    {
+        "src": "eine einzelne person sitzt an einer bushaltestelle .",
+        "tgt": "a lone person sitting at a bus stop ."
+    },
+    {
+        "src": "eine sehr große gruppe von radfahrern fährt die straße entlang .",
+        "tgt": "a very large group of cyclists riding through the street ."
+    },
+    {
+        "src": "ein vogel fliegt auf ein vogelhäuschen zu .",
+        "tgt": "a bird is flying towards a bird feeder ."
+    },
+    {
+        "src": "ein mann blickt aus einem oldtimer heraus .",
+        "tgt": "a man is looking out from an antique vehicle ."
+    },
+    {
+        "src": "mehrere kinder auf einem feld spielen mit bällen .",
+        "tgt": "several children playing on a court with balls"
+    },
+    {
+        "src": "eine tänzerin , die ein rotes kleid trägt , springt in die luft .",
+        "tgt": "woman dancer wearing red dress is leaping into the air ."
+    },
+    {
+        "src": "ein mann steht am eingang einer bar .",
+        "tgt": "a man standing at the entrance of a bar"
+    },
+    {
+        "src": "rote flugzeuge fliegen in v-formation mit einem grünen banner zwischen ihnen .",
+        "tgt": "red planes are flying in a &quot; v &quot; formation with a green plane below them ."
+    },
+    {
+        "src": "ein ältere paar sitzt auf den schaukeln eines parks .",
+        "tgt": "an elderly couple sitting on the swings of a park"
+    },
+    {
+        "src": "ein sich schlängelnder fluss mit weißen sandbanken .",
+        "tgt": "a winding river with white sand banks ."
+    },
+    {
+        "src": "ein mann mit angel am meeresstrand",
+        "tgt": "man with fishing rod on the seashore"
+    },
+    {
+        "src": "ein motorradfahrer fährt in einem rennen eine scharfe kurve , im hintergrund zuschauer .",
+        "tgt": "a moterbiker is making a sharp turn while in a race with spectators in the background ."
+    },
+    {
+        "src": "die füße und beine einer person unter wasser , die durch grünliches wasser schwimmt .",
+        "tgt": "the feet and legs of a person underwater while swimming through greenish water ."
+    },
+    {
+        "src": "eine frau kommt aus einem gebäude heraus .",
+        "tgt": "a woman comes out of a building ."
+    },
+    {
+        "src": "die sonne scheint auf eine rotbraune landschaft mit vielen canyons , sodass all die tiefen abhänge zu sehen sind .",
+        "tgt": "the sun shines over a reddish brown canyon range , displaying all the deep ridges ."
+    },
+    {
+        "src": "alte hütte am fuß eines hügels am ufer .",
+        "tgt": "old shack at the bottom of a hill on the waterfront ."
+    },
+    {
+        "src": "ein mann in affenmaske sitzt auf einer straße in der stadt vor winzigen trommeln .",
+        "tgt": "man in monkey mask sits in front of tiny drums on a city street"
+    },
+    {
+        "src": "zwei radfahrer auf einem radweg mit schönem blauem himmel",
+        "tgt": "2 cyclists on a trail with a beautiful blue sky"
+    },
+    {
+        "src": "mann im anzug mit taschen in den händen",
+        "tgt": "man in suit with bags in hands"
+    },
+    {
+        "src": "ein mann auf einer sandbank am see beim angeln",
+        "tgt": "a man fishing on the banks of a lake"
+    },
+    {
+        "src": "ein dicker mann und ein hund in der nähe des schwimmbeckens",
+        "tgt": "fat man and a dog near the pool"
+    },
+    {
+        "src": "football-spieler mit roten trikots , zwei umarmen sich jubelnd .",
+        "tgt": "football players wearing red jerseys , two hugging in celebration ."
+    },
+    {
+        "src": "ein mädchen mit ohrstöpseln ist mit einer tasse kaffee in der hand unterwegs .",
+        "tgt": "a girl wearing earphones is walking with a cup of coffee on her hand"
+    },
+    {
+        "src": "ein mann grüßt einen hund bei einem zaun .",
+        "tgt": "a man greets a dog next to a fence"
+    },
+    {
+        "src": "mehrere menschen sind zu fuß in der stadt unterwegs .",
+        "tgt": "several people walking around the city"
+    },
+    {
+        "src": "zwei senioren sitzen vor einer achterbahn",
+        "tgt": "two elderly people sitting in front of a roller coaster"
+    },
+    {
+        "src": "eine menschengruppe am strand steigt in ein boot .",
+        "tgt": "group of people on the beach boarding a boat"
+    },
+    {
+        "src": "eine obdachlose person schläft auf einer bank .",
+        "tgt": "a homeless person sleeping on a bench ."
+    },
+    {
+        "src": "ein sonnenuntergang am meeresufer mit einem kleinen segelboot in der ferne",
+        "tgt": "a sunset at the seashore with a small sailboat in the distance"
+    },
+    {
+        "src": "ein von weißem schnee umgebener see",
+        "tgt": "a lake surrounded by white snow"
+    },
+    {
+        "src": "ein mann in einem dunklen raum spielt ein großes instrument .",
+        "tgt": "a man plays a large instrument in a dark room ."
+    },
+    {
+        "src": "hügel mit grünem gras und bäume mit blauem himmel und weißen wolken im hintergrund .",
+        "tgt": "hills of green grass and trees with blue skies and white clouds in the background ."
+    },
+    {
+        "src": "ein motocross-rennen mit viel matsch",
+        "tgt": "a motocross race with a lot of mud"
+    },
+    {
+        "src": "eine person steigt ein paar stufen eines großen monuments hoch .",
+        "tgt": "a person climbing a few steps of a great monument"
+    },
+    {
+        "src": "mehrere kinder fahren in einem park karussell .",
+        "tgt": "a group of children riding a merry-go-round in a park ."
+    },
+    {
+        "src": "ein mann gräbt mit einem kleinen spaten im garten und eine frau sieht zu .",
+        "tgt": "a man digs with a trowel in a garden while a woman watches ."
+    },
+    {
+        "src": "zwei frauen gehen in einer stadt auf der straße .",
+        "tgt": "two women walking the streets of a city"
+    },
+    {
+        "src": "ein junge faltet papier auf dem boden .",
+        "tgt": "a boy is folding paper in the ground"
+    },
+    {
+        "src": "ein mädchen beobachtet eine große welle , die auf es zukommt .",
+        "tgt": "girl watching a big wave heading towards her"
+    },
+    {
+        "src": "ein kleines kind mit mantel und mütze hält die hand einer erwachsenen .",
+        "tgt": "a young child , wearing a coat and hat , is holding the hand of an adult ."
+    },
+    {
+        "src": "mehrere personen rudern über ein gewässer .",
+        "tgt": "group of people are rowing across a body of water ."
+    },
+    {
+        "src": "die fassade eines weißen gebäudes mit holztür",
+        "tgt": "a facade of a white house with wooden door"
+    },
+    {
+        "src": "ein mann , der auf der straße geht , und sein spiegelbild auf der scheibe",
+        "tgt": "man walking down street with reflection in glass"
+    },
+    {
+        "src": "ein obdachloser mann und sein hund bei einem nickerchen",
+        "tgt": "a homeless man and his dog are taking a nap ."
+    },
+    {
+        "src": "kleines mädchen , das im park spielt .",
+        "tgt": "little girl playing in the park"
+    },
+    {
+        "src": "die berge des grand canyon bei sonnenuntergang",
+        "tgt": "the mountains of the grand canyon at sunset ."
+    },
+    {
+        "src": "ein mann im rollstuhl , der im aufzug nach oben fahrt .",
+        "tgt": "a man in a wheelchair going up an escalator ."
+    },
+    {
+        "src": "ein brauner hund im wasser trägt einen stock .",
+        "tgt": "a brown dog carries a stick in the water ."
+    },
+    {
+        "src": "ein esstisch mitten im wald",
+        "tgt": "a table to eat in the middle of a forest"
+    },
+    {
+        "src": "ein rugby-spieler , der versucht , seinem gegner den ball abzunehmen",
+        "tgt": "a rugby player trying to take the ball off his opponent"
+    },
+    {
+        "src": "ein mann mit fahrrad auf dem bahnhof",
+        "tgt": "man with bicycle at the train station"
+    },
+    {
+        "src": "antike badewanne in einem badezimmer",
+        "tgt": "an antique bathtub in a bathroom ."
+    },
+    {
+        "src": "ein paar gebäude befinden sich am hang eines schneebedeckten berges .",
+        "tgt": "a few buildings sit on the side of a snow covered mountain ."
+    },
+    {
+        "src": "eine frau trägt mit einem oberteil , auf dessen rückseite ein tiger abgebildet ist , trägt einkaufstüten .",
+        "tgt": "woman wearing a shirt with a tiger on the back carying bags shopping ."
+    },
+    {
+        "src": "eine menschengruppe in einem kleinen dorf im winter .",
+        "tgt": "a group of people in a small village in winter ."
+    },
+    {
+        "src": "ein hund springt von einem felsen aus ins wasser .",
+        "tgt": "dog jumping into the water from a rock"
+    },
+    {
+        "src": "kind vor tulpenfeld",
+        "tgt": "a child in a field of tulips ."
+    },
+    {
+        "src": "ein pärchen sitzt mitten in der stadt am ufer eines flusses .",
+        "tgt": "a couple sitting on the bank of a river in the middle of the city"
+    },
+    {
+        "src": "drei frauen sind mit mützen und warmer kleidung unterwegs .",
+        "tgt": "three women in hats and warm clothes walking"
+    },
+    {
+        "src": "eine demonstrantengruppe tritt lokalen polizeikräften in kampfanzügen entgegen .",
+        "tgt": "a group of protestors confront local police in riot gear ."
+    },
+    {
+        "src": "straße zwischen nadelbäumen",
+        "tgt": "road in the middle of pine trees"
+    },
+    {
+        "src": "mehrere personen , die eine treppe hinuntergehen , wolkiger himmel",
+        "tgt": "several people walking down stairs , cloudy sky"
+    },
+    {
+        "src": "zwei frauen gehen auf einer straße in der stadt und reden miteinander .",
+        "tgt": "two women chatting while walking down a city street ."
+    },
+    {
+        "src": "zwei kampfjets manövrieren in der luft .",
+        "tgt": "two combat jets maneuvering in the air"
+    },
+    {
+        "src": "eine gruppe radrennfahrer fährt gleich an einem sonnenblumenfeld vorbei .",
+        "tgt": "a pack of bicycle racers are about to ride past a field of sunflowers ."
+    },
+    {
+        "src": "schneebedeckte fußbrücke in den bergen",
+        "tgt": "foot bridge in the mountains covered with snow"
+    },
+    {
+        "src": "radfahrer fahren einen von felsen gesäumten hügel hinauf .",
+        "tgt": "bicyclists riding up a hill lined with rocks"
+    },
+    {
+        "src": "ein kleines mädchen bedeckt ihr gesicht mit einem blauen handtuch .",
+        "tgt": "little girl covering her face with a blue towel"
+    },
+    {
+        "src": "eine frau steht auf einer straße vor einem gebäude und trägt eine pelzstola .",
+        "tgt": "a woman stands on a street in front of a building , wearing a fur stole ."
+    },
+    {
+        "src": "eingang eines hauses mit holztür",
+        "tgt": "entrance of a house with wooden door"
+    },
+    {
+        "src": "ein schwarzer hund mit einem rosa spielzeug im maul rennt im schnee .",
+        "tgt": "a black dog with a pink toy in its mouth is running in the snow ."
+    },
+    {
+        "src": "ein schwarzer hund und seine lieblingsspielzeuge .",
+        "tgt": "a black dog and his favorite toys ."
+    },
+    {
+        "src": "ein mann , der auf der straße nach seinem geschäft nachgeht",
+        "tgt": "a man attending his business on the street"
+    },
+    {
+        "src": "junger mann beim surfen",
+        "tgt": "a young man surfing the waves"
+    },
+    {
+        "src": "mehrere kinder haben spaß zusammen .",
+        "tgt": "a group of children are having fun together ."
+    },
+    {
+        "src": "frau , die in einem restaurant arbeitet , mit spiegelbild",
+        "tgt": "woman working in a restaurant with mirror reflexion"
+    },
+    {
+        "src": "jungs , die auf einem platz im freien basketball spielen",
+        "tgt": "boys playing basketball on an outdoor court"
+    },
+    {
+        "src": "eine frau mit rotem oberteil geht in der mitte der straße , während sich aus der ferne autos nähern .",
+        "tgt": "a woman in a red top is walking down the middle of the street as cars approach in the distance ."
+    },
+    {
+        "src": "vier personen in schlauchbooten beim wildwasserfahren",
+        "tgt": "four people in rafts while white water rafting ."
+    },
+    {
+        "src": "eine brücke mit blick auf einen fluss , im hintergrund eine großstadt .",
+        "tgt": "a bridge overlooking a river , with a large city in the background ."
+    },
+    {
+        "src": "steuertafel eines feuerwehrautos",
+        "tgt": "the control panel of a fire truck"
+    },
+    {
+        "src": "ein junge fährt auf einem promenade aus beton in der nähe eines strands skateboard .",
+        "tgt": "a boy skateboarding on a concrete boardwalk near a beach ."
+    },
+    {
+        "src": "drei personen in einem blauen schlauchboot auf einem fluss mit braunem wasser",
+        "tgt": "three people in a blue raft on a river of brown water"
+    },
+    {
+        "src": "eine frau geht die straße entlang .",
+        "tgt": "a woman walking down the street ."
+    },
+    {
+        "src": "kleines boot , das in leuchtend blauem wasser schwimmt",
+        "tgt": "small boat floating in bright blue water ."
+    },
+    {
+        "src": "eine frau blickt besorgt und versucht , jemanden zu trösten , der weint oder schmerzen hat .",
+        "tgt": "a woman looks concerned and tries to comfort someone crying or in pain ."
+    },
+    {
+        "src": "ein älterer mann und eine frau sitzen auf stühlen neben einem wegweiser und fahrzeugen auf der straße .",
+        "tgt": "older man and woman sitting on chairs beside a signpost beside cars on the street ."
+    },
+    {
+        "src": "zwei frauen haben spaß am beachvolleyball .",
+        "tgt": "two women enjoying beach volleyball ."
+    },
+    {
+        "src": "ein metzger , in dessen geschäft ganze tiere hängen",
+        "tgt": "a butcher , with whole animals hanging in his storefront ."
+    },
+    {
+        "src": "ein unbefestigter weg im wald neben einem see",
+        "tgt": "a dirt road in the forest next to a lake"
+    },
+    {
+        "src": "bei einem spiel stehen ein schiedsrichter und ein catcher am schlagmal , während ein mann einen baseballschläger schwingt .",
+        "tgt": "an umpire and a catcher at home plate while a man swings a baseball bat during a game ."
+    },
+    {
+        "src": "zwei autos fahren in einer kleinstadt .",
+        "tgt": "two cars driving on a street in a small town ."
+    },
+    {
+        "src": "ein wolkiger himmel mit blitzen über einer stadt .",
+        "tgt": "a cloudy sky with lightning over a city"
+    },
+    {
+        "src": "zwei hunde neben einem mann auf dem markt",
+        "tgt": "two dogs next to a man at the market"
+    },
+    {
+        "src": "ein vogel kommt mit einem frisch gefangenen fisch im schnabel aus dem wasser .",
+        "tgt": "a bird emerges from the water with a freshly caught fish in its mouth ."
+    },
+    {
+        "src": "zwei personen fahren auf einem schmalen , auf beiden seiten von wasser umgebenen pfad fahrrad .",
+        "tgt": "two people riding bikes on a narrow path with water on each side ."
+    },
+    {
+        "src": "ein kleines kind hängt auf einem geländer , weil es traurig ist .",
+        "tgt": "a young child hanging onto a railing because they are sad ."
+    },
+    {
+        "src": "eine graue ratte im gras .",
+        "tgt": "a grey rat in the grass ."
+    },
+    {
+        "src": "eine person macht ein kunststück mit dem fahrrad .",
+        "tgt": "person is performing stunt with bike ."
+    },
+    {
+        "src": "ein flugzeug in der luft , und der mond ist am himmel zu sehen .",
+        "tgt": "a plane in air with the moon visible in the sky ."
+    },
+    {
+        "src": "ein rollerblader springt in einem skate-park hoch , mit vielen zuschauern .",
+        "tgt": "a rollerblader jumps high at a skate park , with many onlookers in the audience ."
+    },
+    {
+        "src": "ein schmetterling landet auf einer weißen blume .",
+        "tgt": "a butterfly is landing on a white flower ."
+    },
+    {
+        "src": "ein großer wohnblock mit einem mann , der sich über den balkon beugt .",
+        "tgt": "a large apartment complex with a man leaning out the balcony ."
+    },
+    {
+        "src": "eine frau liegt auf der straße und andere sind um sie herum",
+        "tgt": "a woman lying in the street while other people surround her"
+    },
+    {
+        "src": "zwei männer mit weißen hemden gehen nebeneinander und im vordergrund reden zwei männer in dunklen anzügen miteinander .",
+        "tgt": "two men in white shirts walking by each other while two men in dark suits talk to each other in the foreground ."
+    },
+    {
+        "src": "felsenformation in der wüste mit einem bogen",
+        "tgt": "desert rock formation with an arch"
+    },
+    {
+        "src": "american-football-spieler rennen , um punkte zu erzielen .",
+        "tgt": "american football players running to score"
+    },
+    {
+        "src": "sturmwolken rollen über eine verlassene tankstelle .",
+        "tgt": "storm clouds roll over an abandoned gas station ."
+    },
+    {
+        "src": "ein live-konzert mit jubelnden fans .",
+        "tgt": "a live music concert with cheering fans ."
+    },
+    {
+        "src": "ein basketballspieler wirft auf den korb .",
+        "tgt": "a basketball player is taking a shot ."
+    },
+    {
+        "src": "ein mann hält in einem schminkraum ein haarteil .",
+        "tgt": "a man is grabbing a hair piece in a make up room ."
+    },
+    {
+        "src": "mann mit grauer jacke im gras , umgeben von roten rosen",
+        "tgt": "man with gray jacket in the grass surrounded by red roses"
+    }
+]
